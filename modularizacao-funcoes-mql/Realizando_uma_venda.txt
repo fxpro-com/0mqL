@@ -1,0 +1,4 @@
+      RefreshRates();
+      while (IsTradeContextBusy()) Sleep(5);
+      ticket= OrderSend(Symbol(),OP_SELL,ALAVANCAGEM,Bid,0,Bid + stop_loss*Point,
+      Bid - take_profit*Point,nome,AccountNumber(),0,Red); 
