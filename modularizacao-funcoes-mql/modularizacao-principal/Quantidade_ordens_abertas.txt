@@ -1,0 +1,6 @@
+   //Conta a quantidade ordens abertas 
+   for (int i=0; i=OrdersTotal() ;i++){
+      OrderSelect(i, SELECT_BY_POS); 
+	   if(OrderSymbol() != Symbol()) continue;
+	   if(OrderMagicNumber() != AccountNumber())  continue;
+   }
