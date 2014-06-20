@@ -1,0 +1,19 @@
+#property copyright "Copyright 2014, Gomes"
+#property link      "cleitoncsg@gmail.com"
+
+//---------Constantes
+#define take_profit 400
+#define stop_loss 420
+
+
+//---------Variáveis Globais
+int ticket=0;
+string nome = "CSG";
+
+//Função principal
+int start(){
+   //Variáveis
+   bool compra, venda;
+
+   return (0);
+}
