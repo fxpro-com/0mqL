@@ -1,0 +1,2 @@
+	
+	OrderClose(OrderTicket(),OrderLots(),OrderClosePrice(),0,Black);
