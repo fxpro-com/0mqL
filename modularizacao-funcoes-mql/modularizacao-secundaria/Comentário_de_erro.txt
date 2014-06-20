@@ -1,0 +1,1 @@
+Comment("Erro na compra "+ErrorDescription(GetLastError()));
