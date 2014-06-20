@@ -1,7 +1,7 @@
 Métodos Numéricos e Álgebra Computacional para predição de cotações no mercado FOREX utilizando o framework 0MQ.
                                    Curso de Engenharia de Software - UnB Gama
                          Cleiton Gomes; Hebert Douglas; Thiago Honorato; Vanessa Barbosa
-------------------------------------------------------------------------------------------------------------------
+
                                              Instalar ZEROMQ no Ubuntu:
 
 Antes de começar:
@@ -25,7 +25,7 @@ Entre na pasta examples (linguagem C) do projeto clonado e compile algum program
 gcc -o nomePrograma nomePrograma.c -lzmq
 Para executar:
 ./nomePrograma
-------------------------------------------------------------------------------------------------------------------
+
                                                Como utilizar o ZEROMQ + MQL
 Pré-requisito: ter instalado o ZEROMQ no Ubuntu
 PASSO 1:
@@ -36,7 +36,7 @@ Colocar o arquivo zmq_bind.dll no caminho expert/lib
 
 PASSO 3:
 Colocar o arquivo libzmq.dll no caminho c:/window/system32/ 
--------------------------------------------------------------------------------------------------------------------
+
 
 
 
