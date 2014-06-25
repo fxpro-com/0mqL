@@ -1,0 +1,12 @@
+16:34:19 'C:\Desktop\MQL4\Libraries\zmq_bind.dll' is not 32-bit version
+16:34:19 Expert ZMQ-DAS EURUSD,M5: loaded successfully
+16:34:24 ZMQ-DAS EURUSD,M5: initialized
+16:34:25 Cannot call 'zmq_bind.dll::_zmq_version', DLL is not allowed
+16:34:25 unresolved import function call
+16:39:50 ZMQ-DAS EURUSD,M5: uninit reason 4
+16:39:50 Expert ZMQ-DAS EURUSD,M5: removed
+18:12:52 'C:\Desktop\MQL4\Libraries\zmq_bind.dll' is not 32-bit version
+18:12:52 Expert ZMQ-DAS EURUSD,M5: loaded successfully
+18:12:57 ZMQ-DAS EURUSD,M5: initialized
+18:13:19 ZMQ-DAS EURUSD,M5: uninit reason 4
+18:13:19 Expert ZMQ-DAS EURUSD,M5: removed
