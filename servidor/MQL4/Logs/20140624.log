@@ -1,0 +1,2101 @@
+15:03:27 Expert mql4zmq EURUSD,M5: loaded successfully
+15:03:39 mql4zmq EURUSD,M5: Using zeromq version 2.1.11
+15:03:39 mql4zmq EURUSD,M5: Hello World
+15:03:39 mql4zmq EURUSD,M5: NOTE: to use the precompiled libraries you will need to have the Microsoft Visual C++ 2010 Redistributable Package installed. To Download: http://www.microsoft.com/download/en/details.aspx?id=5555
+15:03:39 mql4zmq EURUSD,M5: Error binding the speaker!
+15:03:39 mql4zmq EURUSD,M5: initialized
+15:03:39 mql4zmq EURUSD,M5: Received message: 
+15:03:39 mql4zmq EURUSD,M5: Published message: tick 1.36093 1.3611 1403643600
+15:03:39 mql4zmq EURUSD,M5: Published message: tick 1.36093 1.3611 1403643600
+15:03:40 mql4zmq EURUSD,M5: Received message: 
+15:03:40 mql4zmq EURUSD,M5: Published message: tick 1.36095 1.36112 1403643600
+15:03:40 mql4zmq EURUSD,M5: Published message: tick 1.36095 1.36112 1403643600
+15:03:41 mql4zmq EURUSD,M5: Received message: 
+15:03:41 mql4zmq EURUSD,M5: Published message: tick 1.36095 1.36113 1403643600
+15:03:41 mql4zmq EURUSD,M5: Published message: tick 1.36095 1.36113 1403643600
+15:03:44 mql4zmq EURUSD,M5: Received message: 
+15:03:44 mql4zmq EURUSD,M5: Published message: tick 1.36096 1.36114 1403643600
+15:03:44 mql4zmq EURUSD,M5: Published message: tick 1.36096 1.36114 1403643600
+15:03:51 mql4zmq EURUSD,M5: Received message: 
+15:03:51 mql4zmq EURUSD,M5: Published message: tick 1.36096 1.36113 1403643600
+15:03:51 mql4zmq EURUSD,M5: Published message: tick 1.36096 1.36113 1403643600
+15:03:52 mql4zmq EURUSD,M5: Received message: 
+15:03:52 mql4zmq EURUSD,M5: Published message: tick 1.36092 1.3611 1403643600
+15:03:52 mql4zmq EURUSD,M5: Published message: tick 1.36092 1.3611 1403643600
+15:03:53 mql4zmq EURUSD,M5: Received message: 
+15:03:53 mql4zmq EURUSD,M5: Published message: tick 1.36097 1.36113 1403643600
+15:03:53 mql4zmq EURUSD,M5: Published message: tick 1.36097 1.36113 1403643600
+15:03:58 Expert mql4zmq_bridge EURUSD,H1: loaded successfully
+15:04:00 mql4zmq EURUSD,M5: Received message: 
+15:04:00 mql4zmq EURUSD,M5: Published message: tick 1.36094 1.3611 1403643600
+15:04:00 mql4zmq EURUSD,M5: Published message: tick 1.36094 1.3611 1403643600
+15:04:01 mql4zmq EURUSD,M5: Received message: 
+15:04:01 mql4zmq EURUSD,M5: Published message: tick 1.36097 1.36113 1403643600
+15:04:01 mql4zmq EURUSD,M5: Published message: tick 1.36097 1.36113 1403643600
+15:04:04 mql4zmq_bridge EURUSD,H1 inputs: trade_direction=short; ZMQ_transport_protocol=tcp; ZMQ_server_address=192.168.0.5; ZMQ_inbound_port=1986; ZMQ_outbound_port=1985; EMA_long=180; EMA_short=60; 
+15:04:05 mql4zmq_bridge EURUSD,H1: Using zeromq version 2.1.11
+15:04:05 mql4zmq_bridge EURUSD,H1: Hello World
+15:04:05 mql4zmq_bridge EURUSD,H1: NOTE: to use the precompiled libraries you will need to have the Microsoft Visual C++ 2010 Redistributable Package installed. To Download: http://www.microsoft.com/download/en/details.aspx?id=5555
+15:04:05 mql4zmq_bridge EURUSD,H1: This is an example bridge.
+15:04:05 mql4zmq_bridge EURUSD,H1: Error connecting the speaker to the central queue!
+15:04:05 mql4zmq_bridge EURUSD,H1: initialized
+15:04:06 mql4zmq EURUSD,M5: Received message: 
+15:04:06 mql4zmq EURUSD,M5: Published message: tick 1.36097 1.36114 1403643600
+15:04:06 mql4zmq EURUSD,M5: Published message: tick 1.36097 1.36114 1403643600
+15:04:06 mql4zmq_bridge EURUSD,H1: Received message: 
+15:04:08 mql4zmq_bridge EURUSD,H1: Received message: 
+15:04:08 mql4zmq EURUSD,M5: Received message: 
+15:04:08 mql4zmq EURUSD,M5: Published message: tick 1.36095 1.36113 1403643600
+15:04:08 mql4zmq EURUSD,M5: Published message: tick 1.36095 1.36113 1403643600
+15:04:12 mql4zmq_bridge EURUSD,H1: Received message: 
+15:04:12 mql4zmq EURUSD,M5: Received message: 
+15:04:12 mql4zmq EURUSD,M5: Published message: tick 1.36096 1.36113 1403643600
+15:04:12 mql4zmq EURUSD,M5: Published message: tick 1.36096 1.36113 1403643600
+15:04:16 mql4zmq_bridge EURUSD,H1: Received message: 
+15:04:16 mql4zmq EURUSD,M5: Received message: 
+15:04:16 mql4zmq EURUSD,M5: Published message: tick 1.36095 1.36113 1403643600
+15:04:16 mql4zmq EURUSD,M5: Published message: tick 1.36095 1.36113 1403643600
+15:04:16 mql4zmq EURUSD,M5: Received message: 
+15:04:16 mql4zmq EURUSD,M5: Published message: tick 1.36095 1.36114 1403643600
+15:04:16 mql4zmq EURUSD,M5: Published message: tick 1.36095 1.36114 1403643600
+15:04:16 mql4zmq_bridge EURUSD,H1: Received message: 
+15:04:19 mql4zmq EURUSD,M5: Received message: 
+15:04:19 mql4zmq_bridge EURUSD,H1: Received message: 
+15:04:19 mql4zmq EURUSD,M5: Published message: tick 1.36095 1.36113 1403643600
+15:04:19 mql4zmq EURUSD,M5: Published message: tick 1.36095 1.36113 1403643600
+15:04:22 mql4zmq_bridge EURUSD,H1: Received message: 
+15:04:22 mql4zmq EURUSD,M5: Received message: 
+15:04:22 mql4zmq EURUSD,M5: Published message: tick 1.36095 1.36112 1403643600
+15:04:22 mql4zmq EURUSD,M5: Published message: tick 1.36095 1.36112 1403643600
+15:04:29 mql4zmq_bridge EURUSD,H1: Received message: 
+15:04:29 mql4zmq EURUSD,M5: Received message: 
+15:04:29 mql4zmq EURUSD,M5: Published message: tick 1.36096 1.36113 1403643600
+15:04:29 mql4zmq EURUSD,M5: Published message: tick 1.36096 1.36113 1403643600
+15:04:31 mql4zmq_bridge EURUSD,H1: Received message: 
+15:04:31 mql4zmq EURUSD,M5: Received message: 
+15:04:31 mql4zmq EURUSD,M5: Published message: tick 1.36089 1.36107 1403643600
+15:04:31 mql4zmq EURUSD,M5: Published message: tick 1.36089 1.36107 1403643600
+15:04:32 mql4zmq_bridge EURUSD,H1: Received message: 
+15:04:32 mql4zmq EURUSD,M5: Received message: 
+15:04:32 mql4zmq EURUSD,M5: Published message: tick 1.36093 1.36112 1403643600
+15:04:32 mql4zmq EURUSD,M5: Published message: tick 1.36093 1.36112 1403643600
+15:04:32 mql4zmq_bridge EURUSD,H1: Received message: 
+15:04:32 mql4zmq EURUSD,M5: Received message: 
+15:04:32 mql4zmq EURUSD,M5: Published message: tick 1.36092 1.3611 1403643600
+15:04:32 mql4zmq EURUSD,M5: Published message: tick 1.36092 1.3611 1403643600
+15:04:32 mql4zmq_bridge EURUSD,H1: Received message: 
+15:04:32 mql4zmq EURUSD,M5: Received message: 
+15:04:32 mql4zmq EURUSD,M5: Published message: tick 1.36094 1.36113 1403643600
+15:04:32 mql4zmq EURUSD,M5: Published message: tick 1.36094 1.36113 1403643600
+15:04:34 mql4zmq_bridge EURUSD,H1: Received message: 
+15:04:34 mql4zmq EURUSD,M5: Received message: 
+15:04:34 mql4zmq EURUSD,M5: Published message: tick 1.36094 1.36112 1403643600
+15:04:34 mql4zmq EURUSD,M5: Published message: tick 1.36094 1.36112 1403643600
+15:04:34 mql4zmq_bridge EURUSD,H1: Received message: 
+15:04:34 mql4zmq EURUSD,M5: Received message: 
+15:04:34 mql4zmq EURUSD,M5: Published message: tick 1.36094 1.36113 1403643600
+15:04:34 mql4zmq EURUSD,M5: Published message: tick 1.36094 1.36113 1403643600
+15:04:40 mql4zmq_bridge EURUSD,H1: Received message: 
+15:04:40 mql4zmq EURUSD,M5: Received message: 
+15:04:40 mql4zmq EURUSD,M5: Published message: tick 1.36096 1.36113 1403643600
+15:04:40 mql4zmq EURUSD,M5: Published message: tick 1.36096 1.36113 1403643600
+15:04:43 mql4zmq_bridge EURUSD,H1: Received message: 
+15:04:43 mql4zmq EURUSD,M5: Received message: 
+15:04:43 mql4zmq EURUSD,M5: Published message: tick 1.36093 1.36112 1403643600
+15:04:43 mql4zmq EURUSD,M5: Published message: tick 1.36093 1.36112 1403643600
+15:04:43 mql4zmq EURUSD,M5: Received message: 
+15:04:43 mql4zmq EURUSD,M5: Published message: tick 1.36093 1.36113 1403643600
+15:04:43 mql4zmq EURUSD,M5: Published message: tick 1.36093 1.36113 1403643600
+15:04:43 mql4zmq_bridge EURUSD,H1: Received message: 
+15:04:45 mql4zmq EURUSD,M5: Received message: 
+15:04:45 mql4zmq_bridge EURUSD,H1: Received message: 
+15:04:45 mql4zmq EURUSD,M5: Published message: tick 1.36093 1.36112 1403643600
+15:04:45 mql4zmq EURUSD,M5: Published message: tick 1.36093 1.36112 1403643600
+15:04:46 mql4zmq_bridge EURUSD,H1: Received message: 
+15:04:46 mql4zmq EURUSD,M5: Received message: 
+15:04:46 mql4zmq EURUSD,M5: Published message: tick 1.36093 1.36111 1403643600
+15:04:46 mql4zmq EURUSD,M5: Published message: tick 1.36093 1.36111 1403643600
+15:04:47 mql4zmq_bridge EURUSD,H1: Received message: 
+15:04:47 mql4zmq EURUSD,M5: Received message: 
+15:04:47 mql4zmq EURUSD,M5: Published message: tick 1.36093 1.36112 1403643600
+15:04:47 mql4zmq EURUSD,M5: Published message: tick 1.36093 1.36112 1403643600
+15:04:47 mql4zmq EURUSD,M5: Received message: 
+15:04:47 mql4zmq EURUSD,M5: Published message: tick 1.36093 1.36113 1403643600
+15:04:47 mql4zmq EURUSD,M5: Published message: tick 1.36093 1.36113 1403643600
+15:04:47 mql4zmq_bridge EURUSD,H1: Received message: 
+15:04:48 mql4zmq_bridge EURUSD,H1: Received message: 
+15:04:48 mql4zmq EURUSD,M5: Received message: 
+15:04:48 mql4zmq EURUSD,M5: Published message: tick 1.36094 1.36113 1403643600
+15:04:48 mql4zmq EURUSD,M5: Published message: tick 1.36094 1.36113 1403643600
+15:04:50 mql4zmq_bridge EURUSD,H1: Received message: 
+15:04:50 mql4zmq EURUSD,M5: Received message: 
+15:04:50 mql4zmq EURUSD,M5: Published message: tick 1.36095 1.36113 1403643600
+15:04:50 mql4zmq EURUSD,M5: Published message: tick 1.36095 1.36113 1403643600
+15:04:51 mql4zmq_bridge EURUSD,H1: Received message: 
+15:04:51 mql4zmq EURUSD,M5: Received message: 
+15:04:51 mql4zmq EURUSD,M5: Published message: tick 1.36095 1.36114 1403643600
+15:04:51 mql4zmq EURUSD,M5: Published message: tick 1.36095 1.36114 1403643600
+15:04:51 mql4zmq_bridge EURUSD,H1: Received message: 
+15:04:51 mql4zmq EURUSD,M5: Received message: 
+15:04:51 mql4zmq EURUSD,M5: Published message: tick 1.36096 1.36115 1403643600
+15:04:51 mql4zmq EURUSD,M5: Published message: tick 1.36096 1.36115 1403643600
+15:04:52 mql4zmq_bridge EURUSD,H1: Received message: 
+15:04:52 mql4zmq EURUSD,M5: Received message: 
+15:04:52 mql4zmq EURUSD,M5: Published message: tick 1.36096 1.36114 1403643600
+15:04:52 mql4zmq EURUSD,M5: Published message: tick 1.36096 1.36114 1403643600
+15:04:53 mql4zmq_bridge EURUSD,H1: Received message: 
+15:04:53 mql4zmq EURUSD,M5: Received message: 
+15:04:53 mql4zmq EURUSD,M5: Published message: tick 1.36096 1.36113 1403643600
+15:04:53 mql4zmq EURUSD,M5: Published message: tick 1.36096 1.36113 1403643600
+15:04:54 mql4zmq_bridge EURUSD,H1: Received message: 
+15:04:54 mql4zmq EURUSD,M5: Received message: 
+15:04:54 mql4zmq EURUSD,M5: Published message: tick 1.36096 1.36114 1403643600
+15:04:54 mql4zmq EURUSD,M5: Published message: tick 1.36096 1.36114 1403643600
+15:04:55 mql4zmq_bridge EURUSD,H1: Received message: 
+15:04:55 mql4zmq EURUSD,M5: Received message: 
+15:04:55 mql4zmq EURUSD,M5: Published message: tick 1.36096 1.36113 1403643600
+15:04:55 mql4zmq EURUSD,M5: Published message: tick 1.36096 1.36113 1403643600
+15:04:56 mql4zmq_bridge EURUSD,H1: Received message: 
+15:04:56 mql4zmq EURUSD,M5: Received message: 
+15:04:56 mql4zmq EURUSD,M5: Published message: tick 1.36096 1.36114 1403643600
+15:04:56 mql4zmq EURUSD,M5: Published message: tick 1.36096 1.36114 1403643600
+15:05:00 mql4zmq_bridge EURUSD,H1: Received message: 
+15:05:00 mql4zmq EURUSD,M5: Received message: 
+15:05:00 mql4zmq EURUSD,M5: Published message: tick 1.36091 1.3611 1403643600
+15:05:00 mql4zmq EURUSD,M5: Published message: tick 1.36091 1.3611 1403643600
+15:05:01 mql4zmq_bridge EURUSD,H1: Received message: 
+15:05:01 mql4zmq EURUSD,M5: Received message: 
+15:05:01 mql4zmq EURUSD,M5: Published message: tick 1.36092 1.3611 1403643900
+15:05:01 mql4zmq EURUSD,M5: Published message: tick 1.36092 1.3611 1403643900
+15:05:01 mql4zmq_bridge EURUSD,H1: Received message: 
+15:05:01 mql4zmq EURUSD,M5: Received message: 
+15:05:01 mql4zmq EURUSD,M5: Published message: tick 1.3609 1.36107 1403643900
+15:05:01 mql4zmq EURUSD,M5: Published message: tick 1.3609 1.36107 1403643900
+15:05:02 mql4zmq_bridge EURUSD,H1: Received message: 
+15:05:02 mql4zmq EURUSD,M5: Received message: 
+15:05:02 mql4zmq EURUSD,M5: Published message: tick 1.36089 1.36107 1403643900
+15:05:02 mql4zmq EURUSD,M5: Published message: tick 1.36089 1.36107 1403643900
+15:05:02 mql4zmq_bridge EURUSD,H1: Received message: 
+15:05:02 mql4zmq EURUSD,M5: Received message: 
+15:05:02 mql4zmq EURUSD,M5: Published message: tick 1.3609 1.36107 1403643900
+15:05:02 mql4zmq EURUSD,M5: Published message: tick 1.3609 1.36107 1403643900
+15:05:02 mql4zmq_bridge EURUSD,H1: Received message: 
+15:05:02 mql4zmq EURUSD,M5: Received message: 
+15:05:02 mql4zmq EURUSD,M5: Published message: tick 1.36089 1.36107 1403643900
+15:05:02 mql4zmq EURUSD,M5: Published message: tick 1.36089 1.36107 1403643900
+15:05:03 mql4zmq_bridge EURUSD,H1: Received message: 
+15:05:03 mql4zmq EURUSD,M5: Received message: 
+15:05:03 mql4zmq EURUSD,M5: Published message: tick 1.36089 1.36105 1403643900
+15:05:03 mql4zmq EURUSD,M5: Published message: tick 1.36089 1.36105 1403643900
+15:05:04 mql4zmq_bridge EURUSD,H1: Received message: 
+15:05:04 mql4zmq EURUSD,M5: Received message: 
+15:05:04 mql4zmq EURUSD,M5: Published message: tick 1.36089 1.36107 1403643900
+15:05:04 mql4zmq EURUSD,M5: Published message: tick 1.36089 1.36107 1403643900
+15:05:05 mql4zmq EURUSD,M5: Received message: 
+15:05:05 mql4zmq EURUSD,M5: Published message: tick 1.36088 1.36107 1403643900
+15:05:05 mql4zmq EURUSD,M5: Published message: tick 1.36088 1.36107 1403643900
+15:05:05 mql4zmq_bridge EURUSD,H1: Received message: 
+15:05:05 mql4zmq_bridge EURUSD,H1: Received message: 
+15:05:05 mql4zmq EURUSD,M5: Received message: 
+15:05:05 mql4zmq EURUSD,M5: Published message: tick 1.36088 1.36105 1403643900
+15:05:05 mql4zmq EURUSD,M5: Published message: tick 1.36088 1.36105 1403643900
+15:05:05 mql4zmq_bridge EURUSD,H1: Received message: 
+15:05:05 mql4zmq EURUSD,M5: Received message: 
+15:05:05 mql4zmq EURUSD,M5: Published message: tick 1.36088 1.36107 1403643900
+15:05:05 mql4zmq EURUSD,M5: Published message: tick 1.36088 1.36107 1403643900
+15:05:07 mql4zmq_bridge EURUSD,H1: Received message: 
+15:05:07 mql4zmq EURUSD,M5: Received message: 
+15:05:07 mql4zmq EURUSD,M5: Published message: tick 1.36088 1.36105 1403643900
+15:05:07 mql4zmq EURUSD,M5: Published message: tick 1.36088 1.36105 1403643900
+15:05:10 mql4zmq EURUSD,M5: Received message: 
+15:05:10 mql4zmq EURUSD,M5: Published message: tick 1.36088 1.36105 1403643900
+15:05:10 mql4zmq EURUSD,M5: Published message: tick 1.36088 1.36105 1403643900
+15:05:10 mql4zmq_bridge EURUSD,H1: Received message: 
+15:05:11 mql4zmq_bridge EURUSD,H1: Received message: 
+15:05:11 mql4zmq EURUSD,M5: Received message: 
+15:05:11 mql4zmq EURUSD,M5: Published message: tick 1.36089 1.36105 1403643900
+15:05:11 mql4zmq EURUSD,M5: Published message: tick 1.36089 1.36105 1403643900
+15:05:14 mql4zmq EURUSD,M5: Received message: 
+15:05:14 mql4zmq EURUSD,M5: Published message: tick 1.36098 1.36116 1403643900
+15:05:14 mql4zmq EURUSD,M5: Published message: tick 1.36098 1.36116 1403643900
+15:05:14 mql4zmq_bridge EURUSD,H1: Received message: 
+15:05:14 mql4zmq_bridge EURUSD,H1: Received message: 
+15:05:14 mql4zmq EURUSD,M5: Received message: 
+15:05:14 mql4zmq EURUSD,M5: Published message: tick 1.36098 1.36115 1403643900
+15:05:14 mql4zmq EURUSD,M5: Published message: tick 1.36098 1.36115 1403643900
+15:05:15 mql4zmq_bridge EURUSD,H1: Received message: 
+15:05:15 mql4zmq EURUSD,M5: Received message: 
+15:05:15 mql4zmq EURUSD,M5: Published message: tick 1.36097 1.36116 1403643900
+15:05:15 mql4zmq EURUSD,M5: Published message: tick 1.36097 1.36116 1403643900
+15:05:16 mql4zmq_bridge EURUSD,H1: Received message: 
+15:05:16 mql4zmq EURUSD,M5: Received message: 
+15:05:16 mql4zmq EURUSD,M5: Published message: tick 1.36098 1.36116 1403643900
+15:05:16 mql4zmq EURUSD,M5: Published message: tick 1.36098 1.36116 1403643900
+15:05:18 mql4zmq_bridge EURUSD,H1: Received message: 
+15:05:18 mql4zmq EURUSD,M5: Received message: 
+15:05:18 mql4zmq EURUSD,M5: Published message: tick 1.36106 1.36124 1403643900
+15:05:18 mql4zmq EURUSD,M5: Published message: tick 1.36106 1.36124 1403643900
+15:05:18 mql4zmq_bridge EURUSD,H1: Received message: 
+15:05:18 mql4zmq EURUSD,M5: Received message: 
+15:05:18 mql4zmq EURUSD,M5: Published message: tick 1.36104 1.3612 1403643900
+15:05:18 mql4zmq EURUSD,M5: Published message: tick 1.36104 1.3612 1403643900
+15:05:18 mql4zmq_bridge EURUSD,H1: Received message: 
+15:05:18 mql4zmq EURUSD,M5: Received message: 
+15:05:18 mql4zmq EURUSD,M5: Published message: tick 1.36109 1.36122 1403643900
+15:05:18 mql4zmq EURUSD,M5: Published message: tick 1.36109 1.36122 1403643900
+15:05:18 mql4zmq_bridge EURUSD,H1: Received message: 
+15:05:18 mql4zmq EURUSD,M5: Received message: 
+15:05:18 mql4zmq EURUSD,M5: Published message: tick 1.36109 1.36124 1403643900
+15:05:18 mql4zmq EURUSD,M5: Published message: tick 1.36109 1.36124 1403643900
+15:05:19 mql4zmq EURUSD,M5: Received message: 
+15:05:19 mql4zmq EURUSD,M5: Published message: tick 1.36115 1.36133 1403643900
+15:05:19 mql4zmq EURUSD,M5: Published message: tick 1.36115 1.36133 1403643900
+15:05:19 mql4zmq_bridge EURUSD,H1: Received message: 
+15:05:20 mql4zmq EURUSD,M5: Received message: 
+15:05:20 mql4zmq EURUSD,M5: Published message: tick 1.36115 1.36132 1403643900
+15:05:20 mql4zmq EURUSD,M5: Published message: tick 1.36115 1.36132 1403643900
+15:05:20 mql4zmq_bridge EURUSD,H1: Received message: 
+15:05:20 mql4zmq EURUSD,M5: Received message: 
+15:05:20 mql4zmq EURUSD,M5: Published message: tick 1.36115 1.36127 1403643900
+15:05:20 mql4zmq EURUSD,M5: Published message: tick 1.36115 1.36127 1403643900
+15:05:20 mql4zmq_bridge EURUSD,H1: Received message: 
+15:05:20 mql4zmq EURUSD,M5: Received message: 
+15:05:20 mql4zmq EURUSD,M5: Published message: tick 1.36114 1.36129 1403643900
+15:05:20 mql4zmq EURUSD,M5: Published message: tick 1.36114 1.36129 1403643900
+15:05:20 mql4zmq_bridge EURUSD,H1: Received message: 
+15:05:21 mql4zmq_bridge EURUSD,H1: Received message: 
+15:05:21 mql4zmq EURUSD,M5: Received message: 
+15:05:21 mql4zmq EURUSD,M5: Published message: tick 1.3611 1.36126 1403643900
+15:05:21 mql4zmq EURUSD,M5: Published message: tick 1.3611 1.36126 1403643900
+15:05:21 mql4zmq_bridge EURUSD,H1: Received message: 
+15:05:21 mql4zmq EURUSD,M5: Received message: 
+15:05:21 mql4zmq EURUSD,M5: Published message: tick 1.3611 1.36127 1403643900
+15:05:21 mql4zmq EURUSD,M5: Published message: tick 1.3611 1.36127 1403643900
+15:05:21 mql4zmq_bridge EURUSD,H1: Received message: 
+15:05:21 mql4zmq EURUSD,M5: Received message: 
+15:05:21 mql4zmq EURUSD,M5: Published message: tick 1.36108 1.36127 1403643900
+15:05:21 mql4zmq EURUSD,M5: Published message: tick 1.36108 1.36127 1403643900
+15:05:21 mql4zmq_bridge EURUSD,H1: Received message: 
+15:05:21 mql4zmq EURUSD,M5: Received message: 
+15:05:21 mql4zmq EURUSD,M5: Published message: tick 1.3611 1.36127 1403643900
+15:05:21 mql4zmq EURUSD,M5: Published message: tick 1.3611 1.36127 1403643900
+15:05:22 mql4zmq_bridge EURUSD,H1: Received message: 
+15:05:22 mql4zmq EURUSD,M5: Received message: 
+15:05:22 mql4zmq EURUSD,M5: Published message: tick 1.36109 1.36127 1403643900
+15:05:22 mql4zmq EURUSD,M5: Published message: tick 1.36109 1.36127 1403643900
+15:05:23 mql4zmq_bridge EURUSD,H1: Received message: 
+15:05:23 mql4zmq EURUSD,M5: Received message: 
+15:05:23 mql4zmq EURUSD,M5: Published message: tick 1.36109 1.36128 1403643900
+15:05:23 mql4zmq EURUSD,M5: Published message: tick 1.36109 1.36128 1403643900
+15:05:24 mql4zmq EURUSD,M5: Received message: 
+15:05:24 mql4zmq EURUSD,M5: Published message: tick 1.36109 1.36127 1403643900
+15:05:24 mql4zmq EURUSD,M5: Published message: tick 1.36109 1.36127 1403643900
+15:05:24 mql4zmq_bridge EURUSD,H1: Received message: 
+15:05:26 mql4zmq EURUSD,M5: Received message: 
+15:05:26 mql4zmq EURUSD,M5: Published message: tick 1.36109 1.36127 1403643900
+15:05:26 mql4zmq EURUSD,M5: Published message: tick 1.36109 1.36127 1403643900
+15:05:26 mql4zmq_bridge EURUSD,H1: Received message: 
+15:05:28 mql4zmq_bridge EURUSD,H1: Received message: 
+15:05:28 mql4zmq EURUSD,M5: Received message: 
+15:05:28 mql4zmq EURUSD,M5: Published message: tick 1.36109 1.36126 1403643900
+15:05:28 mql4zmq EURUSD,M5: Published message: tick 1.36109 1.36126 1403643900
+15:05:29 mql4zmq EURUSD,M5: Received message: 
+15:05:29 mql4zmq EURUSD,M5: Published message: tick 1.3611 1.36128 1403643900
+15:05:29 mql4zmq EURUSD,M5: Published message: tick 1.3611 1.36128 1403643900
+15:05:29 mql4zmq_bridge EURUSD,H1: Received message: 
+15:05:39 mql4zmq EURUSD,M5: Received message: 
+15:05:39 mql4zmq EURUSD,M5: Published message: tick 1.3611 1.36127 1403643900
+15:05:39 mql4zmq EURUSD,M5: Published message: tick 1.3611 1.36127 1403643900
+15:05:39 mql4zmq_bridge EURUSD,H1: Received message: 
+15:05:41 mql4zmq_bridge EURUSD,H1: Received message: 
+15:05:41 mql4zmq EURUSD,M5: Received message: 
+15:05:41 mql4zmq EURUSD,M5: Published message: tick 1.36109 1.36126 1403643900
+15:05:41 mql4zmq EURUSD,M5: Published message: tick 1.36109 1.36126 1403643900
+15:05:42 mql4zmq_bridge EURUSD,H1: Received message: 
+15:05:42 mql4zmq EURUSD,M5: Received message: 
+15:05:42 mql4zmq EURUSD,M5: Published message: tick 1.36109 1.36127 1403643900
+15:05:42 mql4zmq EURUSD,M5: Published message: tick 1.36109 1.36127 1403643900
+15:05:43 mql4zmq_bridge EURUSD,H1: Received message: 
+15:05:43 mql4zmq EURUSD,M5: Received message: 
+15:05:43 mql4zmq EURUSD,M5: Published message: tick 1.36109 1.36126 1403643900
+15:05:43 mql4zmq EURUSD,M5: Published message: tick 1.36109 1.36126 1403643900
+15:05:45 mql4zmq_bridge EURUSD,H1: Received message: 
+15:05:45 mql4zmq EURUSD,M5: Received message: 
+15:05:45 mql4zmq EURUSD,M5: Published message: tick 1.36108 1.36126 1403643900
+15:05:45 mql4zmq EURUSD,M5: Published message: tick 1.36108 1.36126 1403643900
+15:05:48 mql4zmq EURUSD,M5: Received message: 
+15:05:48 mql4zmq EURUSD,M5: Published message: tick 1.36109 1.36126 1403643900
+15:05:48 mql4zmq EURUSD,M5: Published message: tick 1.36109 1.36126 1403643900
+15:05:48 mql4zmq_bridge EURUSD,H1: Received message: 
+15:05:55 mql4zmq_bridge EURUSD,H1: Received message: 
+15:05:55 mql4zmq EURUSD,M5: Received message: 
+15:05:55 mql4zmq EURUSD,M5: Published message: tick 1.36104 1.36122 1403643900
+15:05:55 mql4zmq EURUSD,M5: Published message: tick 1.36104 1.36122 1403643900
+15:05:55 mql4zmq_bridge EURUSD,H1: Received message: 
+15:05:55 mql4zmq EURUSD,M5: Received message: 
+15:05:55 mql4zmq EURUSD,M5: Published message: tick 1.36105 1.36122 1403643900
+15:05:55 mql4zmq EURUSD,M5: Published message: tick 1.36105 1.36122 1403643900
+15:05:56 mql4zmq_bridge EURUSD,H1: Received message: 
+15:05:56 mql4zmq EURUSD,M5: Received message: 
+15:05:56 mql4zmq EURUSD,M5: Published message: tick 1.36105 1.36123 1403643900
+15:05:56 mql4zmq EURUSD,M5: Published message: tick 1.36105 1.36123 1403643900
+15:05:57 mql4zmq_bridge EURUSD,H1: Received message: 
+15:05:57 mql4zmq EURUSD,M5: Received message: 
+15:05:57 mql4zmq EURUSD,M5: Published message: tick 1.36105 1.36122 1403643900
+15:05:57 mql4zmq EURUSD,M5: Published message: tick 1.36105 1.36122 1403643900
+15:05:59 mql4zmq EURUSD,M5: Received message: 
+15:05:59 mql4zmq EURUSD,M5: Published message: tick 1.36105 1.36123 1403643900
+15:05:59 mql4zmq EURUSD,M5: Published message: tick 1.36105 1.36123 1403643900
+15:05:59 mql4zmq_bridge EURUSD,H1: Received message: 
+15:06:01 mql4zmq_bridge EURUSD,H1: Received message: 
+15:06:01 mql4zmq EURUSD,M5: Received message: 
+15:06:01 mql4zmq EURUSD,M5: Published message: tick 1.36105 1.36124 1403643900
+15:06:01 mql4zmq EURUSD,M5: Published message: tick 1.36105 1.36124 1403643900
+15:06:01 mql4zmq_bridge EURUSD,H1: Received message: 
+15:06:01 mql4zmq EURUSD,M5: Received message: 
+15:06:01 mql4zmq EURUSD,M5: Published message: tick 1.36107 1.36124 1403643900
+15:06:01 mql4zmq EURUSD,M5: Published message: tick 1.36107 1.36124 1403643900
+15:06:02 mql4zmq_bridge EURUSD,H1: Received message: 
+15:06:02 mql4zmq EURUSD,M5: Received message: 
+15:06:02 mql4zmq EURUSD,M5: Published message: tick 1.36105 1.36122 1403643900
+15:06:02 mql4zmq EURUSD,M5: Published message: tick 1.36105 1.36122 1403643900
+15:06:03 mql4zmq EURUSD,M5: uninit reason 1
+15:06:03 Expert mql4zmq EURUSD,M5: removed
+15:06:03 Expert zmq EURUSD,M5: loaded successfully
+15:06:08 zmq EURUSD,M5: initialized
+15:06:10 mql4zmq_bridge EURUSD,H1: Received message: 
+15:06:10 zmq EURUSD,M5: using zeromq version 2.1.11
+15:06:10 zmq EURUSD,M5: Olaaa zqm
+15:06:10 zmq EURUSD,M5: ZMQ zmq_error 22: ?????????
+15:06:10 zmq EURUSD,M5: using zeromq version 2.1.11
+15:06:10 zmq EURUSD,M5: Olaaa zqm
+15:06:10 mql4zmq_bridge EURUSD,H1: Received message: 
+15:06:10 zmq EURUSD,M5: ZMQ zmq_error 22: ?????????
+15:06:10 zmq EURUSD,M5: using zeromq version 2.1.11
+15:06:10 zmq EURUSD,M5: Olaaa zqm
+15:06:10 mql4zmq_bridge EURUSD,H1: Received message: 
+15:06:10 zmq EURUSD,M5: ZMQ zmq_error 22: ?????????
+15:06:16 mql4zmq_bridge EURUSD,H1: Received message: 
+15:06:16 zmq EURUSD,M5: using zeromq version 2.1.11
+15:06:16 zmq EURUSD,M5: Olaaa zqm
+15:06:16 zmq EURUSD,M5: ZMQ zmq_error 22: ?????????
+15:06:17 zmq EURUSD,M5: using zeromq version 2.1.11
+15:06:17 zmq EURUSD,M5: Olaaa zqm
+15:06:17 mql4zmq_bridge EURUSD,H1: Received message: 
+15:06:17 zmq EURUSD,M5: ZMQ zmq_error 22: ?????????
+15:06:17 mql4zmq_bridge EURUSD,H1: uninit reason 1
+15:06:17 mql4zmq_bridge EURUSD,H1: Published message: bridge|Miss Vanesssa Barbosa Martins DOWN
+15:06:17 Expert mql4zmq_bridge EURUSD,H1: removed
+15:06:18 Expert zmq_pub_sub EURUSD,H1: loaded successfully
+15:06:18 zmq EURUSD,M5: using zeromq version 2.1.11
+15:06:18 zmq EURUSD,M5: Olaaa zqm
+15:06:18 zmq EURUSD,M5: ZMQ zmq_error 22: ?????????
+15:06:19 zmq EURUSD,M5: using zeromq version 2.1.11
+15:06:19 zmq EURUSD,M5: Olaaa zqm
+15:06:19 zmq EURUSD,M5: ZMQ zmq_error 22: ?????????
+15:06:20 zmq EURUSD,M5: using zeromq version 2.1.11
+15:06:20 zmq EURUSD,M5: Olaaa zqm
+15:06:20 zmq EURUSD,M5: ZMQ zmq_error 22: ?????????
+15:06:21 zmq EURUSD,M5: using zeromq version 2.1.11
+15:06:21 zmq EURUSD,M5: Olaaa zqm
+15:06:21 zmq EURUSD,M5: ZMQ zmq_error 22: ?????????
+15:06:22 zmq_pub_sub EURUSD,H1: initialized
+15:06:23 zmq EURUSD,M5: using zeromq version 2.1.11
+15:06:23 zmq_pub_sub EURUSD,H1: using zeromq version 2.1.11
+15:06:23 zmq_pub_sub EURUSD,H1: Olaaa zqm pub
+15:06:23 zmq EURUSD,M5: Olaaa zqm
+15:06:23 zmq EURUSD,M5: ZMQ zmq_error 22: ?????????
+15:06:23 zmq_pub_sub EURUSD,H1: ZMQ zmq_error 22: ??????????????
+15:06:23 zmq_pub_sub EURUSD,H1: using zeromq version 2.1.11
+15:06:23 zmq_pub_sub EURUSD,H1: Olaaa zqm pub
+15:06:23 zmq EURUSD,M5: using zeromq version 2.1.11
+15:06:23 zmq EURUSD,M5: Olaaa zqm
+15:06:23 zmq_pub_sub EURUSD,H1: ZMQ zmq_error 22: ??????????????
+15:06:23 zmq EURUSD,M5: ZMQ zmq_error 22: ?????????
+15:06:26 zmq_pub_sub EURUSD,H1: using zeromq version 2.1.11
+15:06:26 zmq_pub_sub EURUSD,H1: Olaaa zqm pub
+15:06:26 zmq EURUSD,M5: using zeromq version 2.1.11
+15:06:26 zmq EURUSD,M5: Olaaa zqm
+15:06:26 zmq EURUSD,M5: ZMQ zmq_error 22: ?????????
+15:06:26 zmq_pub_sub EURUSD,H1: ZMQ zmq_error 22: ??????????????
+15:06:26 zmq_pub_sub EURUSD,H1: using zeromq version 2.1.11
+15:06:26 zmq_pub_sub EURUSD,H1: Olaaa zqm pub
+15:06:26 zmq EURUSD,M5: using zeromq version 2.1.11
+15:06:26 zmq EURUSD,M5: Olaaa zqm
+15:06:26 zmq_pub_sub EURUSD,H1: ZMQ zmq_error 22: ??????????????
+15:06:26 zmq EURUSD,M5: ZMQ zmq_error 22: ?????????
+15:06:29 zmq_pub_sub EURUSD,H1: using zeromq version 2.1.11
+15:06:29 zmq_pub_sub EURUSD,H1: Olaaa zqm pub
+15:06:29 zmq EURUSD,M5: using zeromq version 2.1.11
+15:06:29 zmq EURUSD,M5: Olaaa zqm
+15:06:29 zmq EURUSD,M5: ZMQ zmq_error 22: ?????????
+15:06:29 zmq_pub_sub EURUSD,H1: ZMQ zmq_error 22: ??????????????
+15:06:35 zmq_pub_sub EURUSD,H1: using zeromq version 2.1.11
+15:06:35 zmq_pub_sub EURUSD,H1: Olaaa zqm pub
+15:06:35 zmq EURUSD,M5: using zeromq version 2.1.11
+15:06:35 zmq EURUSD,M5: Olaaa zqm
+15:06:35 zmq EURUSD,M5: ZMQ zmq_error 22: ?????????
+15:06:35 zmq_pub_sub EURUSD,H1: ZMQ zmq_error 22: ??????????????
+15:06:35 zmq_pub_sub EURUSD,H1: using zeromq version 2.1.11
+15:06:35 zmq_pub_sub EURUSD,H1: Olaaa zqm pub
+15:06:35 zmq EURUSD,M5: using zeromq version 2.1.11
+15:06:35 zmq EURUSD,M5: Olaaa zqm
+15:06:35 zmq EURUSD,M5: ZMQ zmq_error 22: ?????????
+15:06:35 zmq_pub_sub EURUSD,H1: ZMQ zmq_error 22: ??????????????
+15:06:35 zmq_pub_sub EURUSD,H1: using zeromq version 2.1.11
+15:06:35 zmq_pub_sub EURUSD,H1: Olaaa zqm pub
+15:06:35 zmq EURUSD,M5: using zeromq version 2.1.11
+15:06:35 zmq EURUSD,M5: Olaaa zqm
+15:06:35 zmq EURUSD,M5: ZMQ zmq_error 22: ?????????
+15:06:35 zmq_pub_sub EURUSD,H1: ZMQ zmq_error 22: ??????????????
+15:06:36 zmq_pub_sub EURUSD,H1: using zeromq version 2.1.11
+15:06:36 zmq_pub_sub EURUSD,H1: Olaaa zqm pub
+15:06:36 zmq EURUSD,M5: using zeromq version 2.1.11
+15:06:36 zmq EURUSD,M5: Olaaa zqm
+15:06:36 zmq EURUSD,M5: ZMQ zmq_error 22: ?????????
+15:06:36 zmq_pub_sub EURUSD,H1: ZMQ zmq_error 22: ??????????????
+15:06:37 zmq EURUSD,M5: using zeromq version 2.1.11
+15:06:37 zmq EURUSD,M5: Olaaa zqm
+15:06:37 zmq_pub_sub EURUSD,H1: using zeromq version 2.1.11
+15:06:37 zmq_pub_sub EURUSD,H1: Olaaa zqm pub
+15:06:37 zmq EURUSD,M5: ZMQ zmq_error 22: ?????????
+15:06:37 zmq_pub_sub EURUSD,H1: ZMQ zmq_error 22: ??????????????
+15:06:44 zmq EURUSD,M5: using zeromq version 2.1.11
+15:06:44 zmq EURUSD,M5: Olaaa zqm
+15:06:44 zmq_pub_sub EURUSD,H1: using zeromq version 2.1.11
+15:06:44 zmq_pub_sub EURUSD,H1: Olaaa zqm pub
+15:06:44 zmq_pub_sub EURUSD,H1: ZMQ zmq_error 22: ??????????????
+15:06:44 zmq EURUSD,M5: ZMQ zmq_error 22: ?????????
+15:06:45 zmq_pub_sub EURUSD,H1: using zeromq version 2.1.11
+15:06:45 zmq_pub_sub EURUSD,H1: Olaaa zqm pub
+15:06:45 zmq EURUSD,M5: using zeromq version 2.1.11
+15:06:45 zmq EURUSD,M5: Olaaa zqm
+15:06:45 zmq EURUSD,M5: ZMQ zmq_error 22: ?????????
+15:06:45 zmq_pub_sub EURUSD,H1: ZMQ zmq_error 22: ??????????????
+15:06:50 zmq_pub_sub EURUSD,H1: using zeromq version 2.1.11
+15:06:50 zmq EURUSD,M5: using zeromq version 2.1.11
+15:06:50 zmq_pub_sub EURUSD,H1: Olaaa zqm pub
+15:06:50 zmq EURUSD,M5: Olaaa zqm
+15:06:50 zmq EURUSD,M5: ZMQ zmq_error 22: ?????????
+15:06:50 zmq_pub_sub EURUSD,H1: ZMQ zmq_error 22: ??????????????
+15:06:50 zmq EURUSD,M5: using zeromq version 2.1.11
+15:06:50 zmq EURUSD,M5: Olaaa zqm
+15:06:50 zmq_pub_sub EURUSD,H1: using zeromq version 2.1.11
+15:06:50 zmq_pub_sub EURUSD,H1: Olaaa zqm pub
+15:06:50 zmq_pub_sub EURUSD,H1: ZMQ zmq_error 22: ??????????????
+15:06:50 zmq EURUSD,M5: ZMQ zmq_error 22: ?????????
+15:06:53 zmq_pub_sub EURUSD,H1: using zeromq version 2.1.11
+15:06:53 zmq_pub_sub EURUSD,H1: Olaaa zqm pub
+15:06:53 zmq EURUSD,M5: using zeromq version 2.1.11
+15:06:53 zmq EURUSD,M5: Olaaa zqm
+15:06:53 zmq EURUSD,M5: ZMQ zmq_error 22: ?????????
+15:06:53 zmq_pub_sub EURUSD,H1: ZMQ zmq_error 22: ??????????????
+15:06:57 zmq_pub_sub EURUSD,H1: using zeromq version 2.1.11
+15:06:57 zmq_pub_sub EURUSD,H1: Olaaa zqm pub
+15:06:57 zmq EURUSD,M5: using zeromq version 2.1.11
+15:06:57 zmq EURUSD,M5: Olaaa zqm
+15:06:57 zmq EURUSD,M5: ZMQ zmq_error 22: ?????????
+15:06:57 zmq_pub_sub EURUSD,H1: ZMQ zmq_error 22: ??????????????
+15:06:58 zmq_pub_sub EURUSD,H1: using zeromq version 2.1.11
+15:06:58 zmq_pub_sub EURUSD,H1: Olaaa zqm pub
+15:06:58 zmq EURUSD,M5: using zeromq version 2.1.11
+15:06:58 zmq EURUSD,M5: Olaaa zqm
+15:06:58 zmq_pub_sub EURUSD,H1: ZMQ zmq_error 22: ??????????????
+15:06:58 zmq EURUSD,M5: ZMQ zmq_error 22: ?????????
+15:07:01 zmq_pub_sub EURUSD,H1: using zeromq version 2.1.11
+15:07:01 zmq_pub_sub EURUSD,H1: Olaaa zqm pub
+15:07:01 zmq EURUSD,M5: using zeromq version 2.1.11
+15:07:01 zmq EURUSD,M5: Olaaa zqm
+15:07:01 zmq_pub_sub EURUSD,H1: ZMQ zmq_error 22: ??????????????
+15:07:01 zmq EURUSD,M5: ZMQ zmq_error 22: ?????????
+15:07:05 zmq EURUSD,M5: using zeromq version 2.1.11
+15:07:05 zmq EURUSD,M5: Olaaa zqm
+15:07:05 zmq_pub_sub EURUSD,H1: using zeromq version 2.1.11
+15:07:05 zmq_pub_sub EURUSD,H1: Olaaa zqm pub
+15:07:05 zmq EURUSD,M5: ZMQ zmq_error 22: ?????????
+15:07:05 zmq_pub_sub EURUSD,H1: ZMQ zmq_error 22: ??????????????
+15:07:10 zmq_pub_sub EURUSD,H1: using zeromq version 2.1.11
+15:07:10 zmq_pub_sub EURUSD,H1: Olaaa zqm pub
+15:07:10 zmq EURUSD,M5: using zeromq version 2.1.11
+15:07:10 zmq EURUSD,M5: Olaaa zqm
+15:07:10 zmq_pub_sub EURUSD,H1: ZMQ zmq_error 22: ??????????????
+15:07:10 zmq EURUSD,M5: ZMQ zmq_error 22: ?????????
+15:07:10 zmq_pub_sub EURUSD,H1: using zeromq version 2.1.11
+15:07:10 zmq_pub_sub EURUSD,H1: Olaaa zqm pub
+15:07:10 zmq EURUSD,M5: using zeromq version 2.1.11
+15:07:10 zmq EURUSD,M5: Olaaa zqm
+15:07:10 zmq EURUSD,M5: ZMQ zmq_error 22: ?????????
+15:07:10 zmq_pub_sub EURUSD,H1: ZMQ zmq_error 22: ??????????????
+15:07:13 zmq_pub_sub EURUSD,H1: using zeromq version 2.1.11
+15:07:13 zmq_pub_sub EURUSD,H1: Olaaa zqm pub
+15:07:13 zmq EURUSD,M5: using zeromq version 2.1.11
+15:07:13 zmq EURUSD,M5: Olaaa zqm
+15:07:13 zmq_pub_sub EURUSD,H1: ZMQ zmq_error 22: ??????????????
+15:07:13 zmq EURUSD,M5: ZMQ zmq_error 22: ?????????
+15:07:17 zmq EURUSD,M5: using zeromq version 2.1.11
+15:07:17 zmq EURUSD,M5: Olaaa zqm
+15:07:17 zmq_pub_sub EURUSD,H1: using zeromq version 2.1.11
+15:07:17 zmq_pub_sub EURUSD,H1: Olaaa zqm pub
+15:07:17 zmq_pub_sub EURUSD,H1: ZMQ zmq_error 22: ??????????????
+15:07:17 zmq EURUSD,M5: ZMQ zmq_error 22: ?????????
+15:07:19 zmq_pub_sub EURUSD,H1: using zeromq version 2.1.11
+15:07:19 zmq_pub_sub EURUSD,H1: Olaaa zqm pub
+15:07:19 zmq EURUSD,M5: using zeromq version 2.1.11
+15:07:19 zmq EURUSD,M5: Olaaa zqm
+15:07:19 zmq EURUSD,M5: ZMQ zmq_error 22: ?????????
+15:07:19 zmq_pub_sub EURUSD,H1: ZMQ zmq_error 22: ??????????????
+15:07:24 zmq_pub_sub EURUSD,H1: using zeromq version 2.1.11
+15:07:24 zmq_pub_sub EURUSD,H1: Olaaa zqm pub
+15:07:24 zmq EURUSD,M5: using zeromq version 2.1.11
+15:07:24 zmq EURUSD,M5: Olaaa zqm
+15:07:24 zmq_pub_sub EURUSD,H1: ZMQ zmq_error 22: ??????????????
+15:07:24 zmq EURUSD,M5: ZMQ zmq_error 22: ?????????
+15:07:27 zmq EURUSD,M5: uninit reason 2
+15:07:27 Expert zmq EURUSD,M5: removed
+15:07:27 Expert zmq EURUSD,M5: loaded successfully
+15:07:27 zmq EURUSD,M5: initialized
+15:07:28 zmq_pub_sub EURUSD,H1: using zeromq version 2.1.11
+15:07:28 zmq_pub_sub EURUSD,H1: Olaaa zqm pub
+15:07:28 zmq EURUSD,M5: using zeromq version 2.1.11
+15:07:28 zmq_pub_sub EURUSD,H1: ZMQ zmq_error 22: ??????????????
+15:07:28 zmq EURUSD,M5: ZMQ zmq_error 22: ????????A
+15:07:28 zmq EURUSD,M5: Erro no endereco
+
+15:07:39 zmq_pub_sub EURUSD,H1: using zeromq version 2.1.11
+15:07:39 zmq EURUSD,M5: using zeromq version 2.1.11
+15:07:39 zmq_pub_sub EURUSD,H1: Olaaa zqm pub
+15:07:39 zmq_pub_sub EURUSD,H1: ZMQ zmq_error 22: ??????????????
+15:07:39 zmq EURUSD,M5: ZMQ zmq_error 22: ????????A
+15:07:39 zmq EURUSD,M5: Erro no endereco
+
+15:07:40 zmq_pub_sub EURUSD,H1: using zeromq version 2.1.11
+15:07:40 zmq_pub_sub EURUSD,H1: Olaaa zqm pub
+15:07:40 zmq EURUSD,M5: using zeromq version 2.1.11
+15:07:40 zmq_pub_sub EURUSD,H1: ZMQ zmq_error 22: ??????????????
+15:07:40 zmq EURUSD,M5: ZMQ zmq_error 22: ????????A
+15:07:40 zmq EURUSD,M5: Erro no endereco
+
+15:07:41 zmq_pub_sub EURUSD,H1: using zeromq version 2.1.11
+15:07:41 zmq_pub_sub EURUSD,H1: Olaaa zqm pub
+15:07:41 zmq EURUSD,M5: using zeromq version 2.1.11
+15:07:41 zmq EURUSD,M5: ZMQ zmq_error 22: ????????A
+15:07:41 zmq EURUSD,M5: Erro no endereco
+
+15:07:41 zmq_pub_sub EURUSD,H1: ZMQ zmq_error 22: ??????????????
+15:07:43 zmq_pub_sub EURUSD,H1: using zeromq version 2.1.11
+15:07:43 zmq_pub_sub EURUSD,H1: Olaaa zqm pub
+15:07:43 zmq EURUSD,M5: using zeromq version 2.1.11
+15:07:43 zmq EURUSD,M5: ZMQ zmq_error 22: ????????A
+15:07:43 zmq EURUSD,M5: Erro no endereco
+
+15:07:43 zmq_pub_sub EURUSD,H1: ZMQ zmq_error 22: ??????????????
+15:07:47 zmq_pub_sub EURUSD,H1: using zeromq version 2.1.11
+15:07:47 zmq_pub_sub EURUSD,H1: Olaaa zqm pub
+15:07:47 zmq EURUSD,M5: using zeromq version 2.1.11
+15:07:47 zmq_pub_sub EURUSD,H1: ZMQ zmq_error 22: ??????????????
+15:07:47 zmq_pub_sub EURUSD,H1: using zeromq version 2.1.11
+15:07:47 zmq_pub_sub EURUSD,H1: Olaaa zqm pub
+15:07:47 zmq EURUSD,M5: ZMQ zmq_error 22: ????????A
+15:07:47 zmq EURUSD,M5: Erro no endereco
+
+15:07:47 zmq_pub_sub EURUSD,H1: ZMQ zmq_error 22: ??????????????
+15:07:50 zmq EURUSD,M5: using zeromq version 2.1.11
+15:07:50 zmq_pub_sub EURUSD,H1: using zeromq version 2.1.11
+15:07:50 zmq_pub_sub EURUSD,H1: Olaaa zqm pub
+15:07:50 zmq_pub_sub EURUSD,H1: ZMQ zmq_error 22: ??????????????
+15:07:50 zmq EURUSD,M5: ZMQ zmq_error 22: ????????A
+15:07:50 zmq EURUSD,M5: Erro no endereco
+
+15:07:50 zmq_pub_sub EURUSD,H1: using zeromq version 2.1.11
+15:07:50 zmq_pub_sub EURUSD,H1: Olaaa zqm pub
+15:07:50 zmq EURUSD,M5: using zeromq version 2.1.11
+15:07:50 zmq_pub_sub EURUSD,H1: ZMQ zmq_error 22: ??????????????
+15:07:50 zmq EURUSD,M5: ZMQ zmq_error 22: ????????A
+15:07:50 zmq EURUSD,M5: Erro no endereco
+
+15:07:50 zmq EURUSD,M5: using zeromq version 2.1.11
+15:07:50 zmq_pub_sub EURUSD,H1: using zeromq version 2.1.11
+15:07:50 zmq_pub_sub EURUSD,H1: Olaaa zqm pub
+15:07:50 zmq EURUSD,M5: ZMQ zmq_error 22: ????????A
+15:07:50 zmq EURUSD,M5: Erro no endereco
+
+15:07:50 zmq_pub_sub EURUSD,H1: ZMQ zmq_error 22: ??????????????
+15:07:51 zmq_pub_sub EURUSD,H1: using zeromq version 2.1.11
+15:07:51 zmq_pub_sub EURUSD,H1: Olaaa zqm pub
+15:07:51 zmq EURUSD,M5: using zeromq version 2.1.11
+15:07:51 zmq_pub_sub EURUSD,H1: ZMQ zmq_error 22: ??????????????
+15:07:51 zmq EURUSD,M5: ZMQ zmq_error 22: ????????A
+15:07:51 zmq EURUSD,M5: Erro no endereco
+
+15:07:52 zmq_pub_sub EURUSD,H1: using zeromq version 2.1.11
+15:07:52 zmq_pub_sub EURUSD,H1: Olaaa zqm pub
+15:07:52 zmq EURUSD,M5: using zeromq version 2.1.11
+15:07:52 zmq EURUSD,M5: ZMQ zmq_error 22: ????????A
+15:07:52 zmq EURUSD,M5: Erro no endereco
+
+15:07:52 zmq_pub_sub EURUSD,H1: ZMQ zmq_error 22: ??????????????
+15:07:53 zmq_pub_sub EURUSD,H1: using zeromq version 2.1.11
+15:07:53 zmq_pub_sub EURUSD,H1: Olaaa zqm pub
+15:07:53 zmq EURUSD,M5: using zeromq version 2.1.11
+15:07:53 zmq_pub_sub EURUSD,H1: ZMQ zmq_error 22: ??????????????
+15:07:53 zmq EURUSD,M5: ZMQ zmq_error 22: ????????A
+15:07:53 zmq EURUSD,M5: Erro no endereco
+
+15:07:53 zmq_pub_sub EURUSD,H1: using zeromq version 2.1.11
+15:07:53 zmq_pub_sub EURUSD,H1: Olaaa zqm pub
+15:07:53 zmq EURUSD,M5: using zeromq version 2.1.11
+15:07:53 zmq EURUSD,M5: ZMQ zmq_error 22: ????????A
+15:07:53 zmq EURUSD,M5: Erro no endereco
+
+15:07:53 zmq_pub_sub EURUSD,H1: ZMQ zmq_error 22: ??????????????
+15:07:58 zmq_pub_sub EURUSD,H1: using zeromq version 2.1.11
+15:07:58 zmq EURUSD,M5: using zeromq version 2.1.11
+15:07:58 zmq_pub_sub EURUSD,H1: Olaaa zqm pub
+15:07:58 zmq_pub_sub EURUSD,H1: ZMQ zmq_error 22: ??????????????
+15:07:58 zmq EURUSD,M5: ZMQ zmq_error 22: ????????A
+15:07:58 zmq EURUSD,M5: Erro no endereco
+
+15:07:59 zmq_pub_sub EURUSD,H1: using zeromq version 2.1.11
+15:07:59 zmq_pub_sub EURUSD,H1: Olaaa zqm pub
+15:07:59 zmq EURUSD,M5: using zeromq version 2.1.11
+15:07:59 zmq EURUSD,M5: ZMQ zmq_error 22: ????????A
+15:07:59 zmq EURUSD,M5: Erro no endereco
+
+15:07:59 zmq_pub_sub EURUSD,H1: ZMQ zmq_error 22: ??????????????
+15:08:01 zmq_pub_sub EURUSD,H1: using zeromq version 2.1.11
+15:08:01 zmq_pub_sub EURUSD,H1: Olaaa zqm pub
+15:08:01 zmq EURUSD,M5: using zeromq version 2.1.11
+15:08:01 zmq_pub_sub EURUSD,H1: ZMQ zmq_error 22: ??????????????
+15:08:01 zmq EURUSD,M5: ZMQ zmq_error 22: ????????A
+15:08:01 zmq EURUSD,M5: Erro no endereco
+
+15:08:01 zmq EURUSD,M5: using zeromq version 2.1.11
+15:08:01 zmq_pub_sub EURUSD,H1: using zeromq version 2.1.11
+15:08:01 zmq_pub_sub EURUSD,H1: Olaaa zqm pub
+15:08:01 zmq_pub_sub EURUSD,H1: ZMQ zmq_error 22: ??????????????
+15:08:01 zmq EURUSD,M5: ZMQ zmq_error 22: ????????A
+15:08:01 zmq EURUSD,M5: Erro no endereco
+
+15:08:04 zmq_pub_sub EURUSD,H1: using zeromq version 2.1.11
+15:08:04 zmq_pub_sub EURUSD,H1: Olaaa zqm pub
+15:08:04 zmq EURUSD,M5: using zeromq version 2.1.11
+15:08:04 zmq_pub_sub EURUSD,H1: ZMQ zmq_error 22: ??????????????
+15:08:04 zmq EURUSD,M5: ZMQ zmq_error 22: ????????A
+15:08:04 zmq EURUSD,M5: Erro no endereco
+
+15:08:04 zmq_pub_sub EURUSD,H1: using zeromq version 2.1.11
+15:08:04 zmq_pub_sub EURUSD,H1: Olaaa zqm pub
+15:08:04 zmq EURUSD,M5: using zeromq version 2.1.11
+15:08:04 zmq_pub_sub EURUSD,H1: ZMQ zmq_error 22: ??????????????
+15:08:04 zmq EURUSD,M5: ZMQ zmq_error 22: ????????A
+15:08:04 zmq EURUSD,M5: Erro no endereco
+
+15:08:13 zmq_pub_sub EURUSD,H1: using zeromq version 2.1.11
+15:08:13 zmq_pub_sub EURUSD,H1: Olaaa zqm pub
+15:08:13 zmq EURUSD,M5: using zeromq version 2.1.11
+15:08:13 zmq EURUSD,M5: ZMQ zmq_error 22: ????????A
+15:08:13 zmq EURUSD,M5: Erro no endereco
+
+15:08:13 zmq_pub_sub EURUSD,H1: ZMQ zmq_error 22: ??????????????
+15:08:14 zmq EURUSD,M5: using zeromq version 2.1.11
+15:08:14 zmq_pub_sub EURUSD,H1: using zeromq version 2.1.11
+15:08:14 zmq_pub_sub EURUSD,H1: Olaaa zqm pub
+15:08:14 zmq EURUSD,M5: ZMQ zmq_error 22: ????????A
+15:08:14 zmq EURUSD,M5: Erro no endereco
+
+15:08:14 zmq_pub_sub EURUSD,H1: ZMQ zmq_error 22: ??????????????
+15:08:16 zmq_pub_sub EURUSD,H1: using zeromq version 2.1.11
+15:08:16 zmq_pub_sub EURUSD,H1: Olaaa zqm pub
+15:08:16 zmq EURUSD,M5: using zeromq version 2.1.11
+15:08:16 zmq_pub_sub EURUSD,H1: ZMQ zmq_error 22: ??????????????
+15:08:16 zmq EURUSD,M5: ZMQ zmq_error 22: ????????A
+15:08:16 zmq EURUSD,M5: Erro no endereco
+
+15:08:18 zmq_pub_sub EURUSD,H1: using zeromq version 2.1.11
+15:08:18 zmq_pub_sub EURUSD,H1: Olaaa zqm pub
+15:08:18 zmq EURUSD,M5: using zeromq version 2.1.11
+15:08:18 zmq_pub_sub EURUSD,H1: ZMQ zmq_error 22: ??????????????
+15:08:18 zmq EURUSD,M5: ZMQ zmq_error 22: ????????A
+15:08:18 zmq EURUSD,M5: Erro no endereco
+
+15:08:18 zmq_pub_sub EURUSD,H1: using zeromq version 2.1.11
+15:08:18 zmq_pub_sub EURUSD,H1: Olaaa zqm pub
+15:08:18 zmq EURUSD,M5: using zeromq version 2.1.11
+15:08:18 zmq EURUSD,M5: ZMQ zmq_error 22: ????????A
+15:08:18 zmq EURUSD,M5: Erro no endereco
+
+15:08:18 zmq_pub_sub EURUSD,H1: ZMQ zmq_error 22: ??????????????
+15:08:24 zmq_pub_sub EURUSD,H1: using zeromq version 2.1.11
+15:08:24 zmq_pub_sub EURUSD,H1: Olaaa zqm pub
+15:08:24 zmq EURUSD,M5: using zeromq version 2.1.11
+15:08:24 zmq_pub_sub EURUSD,H1: ZMQ zmq_error 22: ??????????????
+15:08:24 zmq EURUSD,M5: ZMQ zmq_error 22: ????????A
+15:08:24 zmq EURUSD,M5: Erro no endereco
+
+15:08:25 zmq EURUSD,M5: using zeromq version 2.1.11
+15:08:25 zmq_pub_sub EURUSD,H1: using zeromq version 2.1.11
+15:08:25 zmq_pub_sub EURUSD,H1: Olaaa zqm pub
+15:08:25 zmq_pub_sub EURUSD,H1: ZMQ zmq_error 22: ??????????????
+15:08:25 zmq EURUSD,M5: ZMQ zmq_error 22: ????????A
+15:08:25 zmq EURUSD,M5: Erro no endereco
+
+15:08:26 zmq EURUSD,M5: using zeromq version 2.1.11
+15:08:26 zmq_pub_sub EURUSD,H1: using zeromq version 2.1.11
+15:08:26 zmq_pub_sub EURUSD,H1: Olaaa zqm pub
+15:08:26 zmq_pub_sub EURUSD,H1: ZMQ zmq_error 22: ??????????????
+15:08:26 zmq EURUSD,M5: ZMQ zmq_error 22: ????????A
+15:08:26 zmq EURUSD,M5: Erro no endereco
+
+15:08:32 zmq EURUSD,M5: using zeromq version 2.1.11
+15:08:32 zmq_pub_sub EURUSD,H1: using zeromq version 2.1.11
+15:08:32 zmq_pub_sub EURUSD,H1: Olaaa zqm pub
+15:08:32 zmq EURUSD,M5: ZMQ zmq_error 22: ????????A
+15:08:32 zmq EURUSD,M5: Erro no endereco
+
+15:08:32 zmq EURUSD,M5: using zeromq version 2.1.11
+15:08:32 zmq_pub_sub EURUSD,H1: ZMQ zmq_error 22: ??????????????
+15:08:32 zmq_pub_sub EURUSD,H1: using zeromq version 2.1.11
+15:08:32 zmq_pub_sub EURUSD,H1: Olaaa zqm pub
+15:08:32 zmq EURUSD,M5: ZMQ zmq_error 22: ????????A
+15:08:32 zmq EURUSD,M5: Erro no endereco
+
+15:08:32 zmq_pub_sub EURUSD,H1: ZMQ zmq_error 22: ??????????????
+15:08:34 zmq EURUSD,M5: using zeromq version 2.1.11
+15:08:34 zmq_pub_sub EURUSD,H1: using zeromq version 2.1.11
+15:08:34 zmq_pub_sub EURUSD,H1: Olaaa zqm pub
+15:08:34 zmq_pub_sub EURUSD,H1: ZMQ zmq_error 22: ??????????????
+15:08:34 zmq EURUSD,M5: ZMQ zmq_error 22: ????????A
+15:08:34 zmq EURUSD,M5: Erro no endereco
+
+15:08:38 zmq EURUSD,M5: using zeromq version 2.1.11
+15:08:38 zmq_pub_sub EURUSD,H1: using zeromq version 2.1.11
+15:08:38 zmq_pub_sub EURUSD,H1: Olaaa zqm pub
+15:08:38 zmq EURUSD,M5: ZMQ zmq_error 22: ????????A
+15:08:38 zmq EURUSD,M5: Erro no endereco
+
+15:08:38 zmq_pub_sub EURUSD,H1: ZMQ zmq_error 22: ??????????????
+15:08:47 zmq_pub_sub EURUSD,H1: using zeromq version 2.1.11
+15:08:47 zmq_pub_sub EURUSD,H1: Olaaa zqm pub
+15:08:47 zmq EURUSD,M5: using zeromq version 2.1.11
+15:08:47 zmq_pub_sub EURUSD,H1: ZMQ zmq_error 22: ??????????????
+15:08:47 zmq EURUSD,M5: ZMQ zmq_error 22: ????????A
+15:08:47 zmq EURUSD,M5: Erro no endereco
+
+15:08:48 zmq EURUSD,M5: using zeromq version 2.1.11
+15:08:48 zmq_pub_sub EURUSD,H1: using zeromq version 2.1.11
+15:08:48 zmq_pub_sub EURUSD,H1: Olaaa zqm pub
+15:08:48 zmq EURUSD,M5: ZMQ zmq_error 22: ????????A
+15:08:48 zmq EURUSD,M5: Erro no endereco
+
+15:08:48 zmq_pub_sub EURUSD,H1: ZMQ zmq_error 22: ??????????????
+15:08:50 zmq EURUSD,M5: using zeromq version 2.1.11
+15:08:50 zmq_pub_sub EURUSD,H1: using zeromq version 2.1.11
+15:08:50 zmq_pub_sub EURUSD,H1: Olaaa zqm pub
+15:08:50 zmq EURUSD,M5: ZMQ zmq_error 22: ????????A
+15:08:50 zmq EURUSD,M5: Erro no endereco
+
+15:08:50 zmq_pub_sub EURUSD,H1: ZMQ zmq_error 22: ??????????????
+15:08:50 zmq_pub_sub EURUSD,H1: using zeromq version 2.1.11
+15:08:50 zmq_pub_sub EURUSD,H1: Olaaa zqm pub
+15:08:50 zmq EURUSD,M5: using zeromq version 2.1.11
+15:08:50 zmq EURUSD,M5: ZMQ zmq_error 22: ????????A
+15:08:50 zmq EURUSD,M5: Erro no endereco
+
+15:08:50 zmq_pub_sub EURUSD,H1: ZMQ zmq_error 22: ??????????????
+15:08:52 zmq EURUSD,M5: using zeromq version 2.1.11
+15:08:52 zmq_pub_sub EURUSD,H1: using zeromq version 2.1.11
+15:08:52 zmq_pub_sub EURUSD,H1: Olaaa zqm pub
+15:08:52 zmq EURUSD,M5: ZMQ zmq_error 22: ????????A
+15:08:52 zmq EURUSD,M5: Erro no endereco
+
+15:08:52 zmq_pub_sub EURUSD,H1: ZMQ zmq_error 22: ??????????????
+15:08:52 zmq_pub_sub EURUSD,H1: using zeromq version 2.1.11
+15:08:52 zmq_pub_sub EURUSD,H1: Olaaa zqm pub
+15:08:52 zmq EURUSD,M5: using zeromq version 2.1.11
+15:08:52 zmq EURUSD,M5: ZMQ zmq_error 22: ????????A
+15:08:52 zmq EURUSD,M5: Erro no endereco
+
+15:08:52 zmq_pub_sub EURUSD,H1: ZMQ zmq_error 22: ??????????????
+15:08:52 zmq_pub_sub EURUSD,H1: using zeromq version 2.1.11
+15:08:52 zmq_pub_sub EURUSD,H1: Olaaa zqm pub
+15:08:52 zmq EURUSD,M5: using zeromq version 2.1.11
+15:08:52 zmq EURUSD,M5: ZMQ zmq_error 22: ????????A
+15:08:52 zmq EURUSD,M5: Erro no endereco
+
+15:08:52 zmq_pub_sub EURUSD,H1: ZMQ zmq_error 22: ??????????????
+15:08:53 zmq_pub_sub EURUSD,H1: using zeromq version 2.1.11
+15:08:53 zmq_pub_sub EURUSD,H1: Olaaa zqm pub
+15:08:53 zmq EURUSD,M5: using zeromq version 2.1.11
+15:08:53 zmq_pub_sub EURUSD,H1: ZMQ zmq_error 22: ??????????????
+15:08:53 zmq EURUSD,M5: ZMQ zmq_error 22: ????????A
+15:08:53 zmq EURUSD,M5: Erro no endereco
+
+15:08:54 zmq EURUSD,M5: using zeromq version 2.1.11
+15:08:54 zmq_pub_sub EURUSD,H1: using zeromq version 2.1.11
+15:08:54 zmq_pub_sub EURUSD,H1: Olaaa zqm pub
+15:08:54 zmq_pub_sub EURUSD,H1: ZMQ zmq_error 22: ??????????????
+15:08:54 zmq EURUSD,M5: ZMQ zmq_error 22: ????????A
+15:08:54 zmq EURUSD,M5: Erro no endereco
+
+15:08:58 zmq EURUSD,M5: using zeromq version 2.1.11
+15:08:58 zmq_pub_sub EURUSD,H1: using zeromq version 2.1.11
+15:08:58 zmq_pub_sub EURUSD,H1: Olaaa zqm pub
+15:08:58 zmq EURUSD,M5: ZMQ zmq_error 22: ????????A
+15:08:58 zmq_pub_sub EURUSD,H1: ZMQ zmq_error 22: ??????????????
+15:08:58 zmq EURUSD,M5: Erro no endereco
+
+15:08:58 zmq EURUSD,M5: using zeromq version 2.1.11
+15:08:58 zmq_pub_sub EURUSD,H1: using zeromq version 2.1.11
+15:08:58 zmq_pub_sub EURUSD,H1: Olaaa zqm pub
+15:08:58 zmq_pub_sub EURUSD,H1: ZMQ zmq_error 22: ??????????????
+15:08:58 zmq EURUSD,M5: ZMQ zmq_error 22: ????????A
+15:08:58 zmq EURUSD,M5: Erro no endereco
+
+15:08:58 zmq_pub_sub EURUSD,H1: using zeromq version 2.1.11
+15:08:58 zmq_pub_sub EURUSD,H1: Olaaa zqm pub
+15:08:58 zmq EURUSD,M5: using zeromq version 2.1.11
+15:08:58 zmq_pub_sub EURUSD,H1: ZMQ zmq_error 22: ??????????????
+15:08:58 zmq EURUSD,M5: ZMQ zmq_error 22: ????????A
+15:08:58 zmq EURUSD,M5: Erro no endereco
+
+15:08:59 zmq EURUSD,M5: using zeromq version 2.1.11
+15:08:59 zmq_pub_sub EURUSD,H1: using zeromq version 2.1.11
+15:08:59 zmq_pub_sub EURUSD,H1: Olaaa zqm pub
+15:08:59 zmq_pub_sub EURUSD,H1: ZMQ zmq_error 22: ??????????????
+15:08:59 zmq EURUSD,M5: ZMQ zmq_error 22: ????????A
+15:08:59 zmq EURUSD,M5: Erro no endereco
+
+15:09:01 zmq_pub_sub EURUSD,H1: using zeromq version 2.1.11
+15:09:01 zmq_pub_sub EURUSD,H1: Olaaa zqm pub
+15:09:01 zmq EURUSD,M5: using zeromq version 2.1.11
+15:09:01 zmq_pub_sub EURUSD,H1: ZMQ zmq_error 22: ??????????????
+15:09:01 zmq EURUSD,M5: ZMQ zmq_error 22: ????????A
+15:09:01 zmq EURUSD,M5: Erro no endereco
+
+15:09:03 zmq EURUSD,M5: using zeromq version 2.1.11
+15:09:03 zmq_pub_sub EURUSD,H1: using zeromq version 2.1.11
+15:09:03 zmq_pub_sub EURUSD,H1: Olaaa zqm pub
+15:09:03 zmq_pub_sub EURUSD,H1: ZMQ zmq_error 22: ??????????????
+15:09:03 zmq EURUSD,M5: ZMQ zmq_error 22: ????????A
+15:09:03 zmq EURUSD,M5: Erro no endereco
+
+15:09:04 zmq_pub_sub EURUSD,H1: using zeromq version 2.1.11
+15:09:04 zmq_pub_sub EURUSD,H1: Olaaa zqm pub
+15:09:04 zmq EURUSD,M5: using zeromq version 2.1.11
+15:09:04 zmq_pub_sub EURUSD,H1: ZMQ zmq_error 22: ??????????????
+15:09:04 zmq EURUSD,M5: ZMQ zmq_error 22: ????????A
+15:09:04 zmq EURUSD,M5: Erro no endereco
+
+15:09:05 zmq_pub_sub EURUSD,H1: using zeromq version 2.1.11
+15:09:05 zmq_pub_sub EURUSD,H1: Olaaa zqm pub
+15:09:05 zmq EURUSD,M5: using zeromq version 2.1.11
+15:09:05 zmq_pub_sub EURUSD,H1: ZMQ zmq_error 22: ??????????????
+15:09:05 zmq EURUSD,M5: ZMQ zmq_error 22: ????????A
+15:09:05 zmq EURUSD,M5: Erro no endereco
+
+15:09:05 zmq_pub_sub EURUSD,H1: using zeromq version 2.1.11
+15:09:05 zmq EURUSD,M5: using zeromq version 2.1.11
+15:09:05 zmq_pub_sub EURUSD,H1: Olaaa zqm pub
+15:09:05 Unhandled exception 0x40000015
+15:09:05 Unhandled exception 0x40000015
+15:12:47 zmq_pub_sub EURUSD,H1: uninit reason 4
+15:12:47 zmq EURUSD,M5: uninit reason 4
+15:12:47 Expert zmq_pub_sub EURUSD,H1: removed
+15:12:47 Expert zmq EURUSD,M5: removed
+15:13:56 Compiling 'zmq'
+15:13:58 Expert zmq EURUSD,M5: loaded successfully
+15:13:58 Expert zmq_pub_sub EURUSD,H1: loaded successfully
+15:14:02 zmq EURUSD,M5: initialized
+15:14:02 zmq_pub_sub EURUSD,H1: initialized
+15:14:03 zmq_pub_sub EURUSD,H1: using zeromq version 2.1.11
+15:14:03 zmq_pub_sub EURUSD,H1: Olaaa zqm pub
+15:14:03 zmq EURUSD,M5: using zeromq version 2.1.11
+15:14:03 zmq_pub_sub EURUSD,H1: ZMQ zmq_error 22: ??????????
+15:14:03 zmq EURUSD,M5: ZMQ zmq_error 22: ????????????????????????t
+15:14:03 zmq EURUSD,M5: Erro no endereco
+
+15:14:07 zmq_pub_sub EURUSD,H1: using zeromq version 2.1.11
+15:14:07 zmq_pub_sub EURUSD,H1: Olaaa zqm pub
+15:14:07 zmq EURUSD,M5: using zeromq version 2.1.11
+15:14:07 zmq_pub_sub EURUSD,H1: ZMQ zmq_error 22: ??????????
+15:14:07 zmq EURUSD,M5: ZMQ zmq_error 22: ????????????????????????t
+15:14:07 zmq EURUSD,M5: Erro no endereco
+
+15:14:07 zmq_pub_sub EURUSD,H1: using zeromq version 2.1.11
+15:14:07 zmq_pub_sub EURUSD,H1: Olaaa zqm pub
+15:14:07 zmq EURUSD,M5: using zeromq version 2.1.11
+15:14:07 zmq_pub_sub EURUSD,H1: ZMQ zmq_error 22: ??????????
+15:14:07 zmq EURUSD,M5: ZMQ zmq_error 22: ????????????????????????t
+15:14:07 zmq EURUSD,M5: Erro no endereco
+
+15:14:08 zmq_pub_sub EURUSD,H1: using zeromq version 2.1.11
+15:14:08 zmq EURUSD,M5: using zeromq version 2.1.11
+15:14:08 zmq_pub_sub EURUSD,H1: Olaaa zqm pub
+15:14:08 zmq_pub_sub EURUSD,H1: ZMQ zmq_error 22: ??????????
+15:14:08 zmq EURUSD,M5: ZMQ zmq_error 22: ????????????????????????t
+15:14:08 zmq EURUSD,M5: Erro no endereco
+
+15:14:09 zmq_pub_sub EURUSD,H1: using zeromq version 2.1.11
+15:14:09 zmq_pub_sub EURUSD,H1: Olaaa zqm pub
+15:14:09 zmq EURUSD,M5: using zeromq version 2.1.11
+15:14:09 zmq EURUSD,M5: ZMQ zmq_error 22: ????????????????????????t
+15:14:09 zmq EURUSD,M5: Erro no endereco
+
+15:14:09 zmq_pub_sub EURUSD,H1: ZMQ zmq_error 22: ??????????
+15:14:10 zmq_pub_sub EURUSD,H1: using zeromq version 2.1.11
+15:14:10 zmq_pub_sub EURUSD,H1: Olaaa zqm pub
+15:14:10 zmq EURUSD,M5: using zeromq version 2.1.11
+15:14:10 zmq_pub_sub EURUSD,H1: ZMQ zmq_error 22: ??????????
+15:14:10 zmq EURUSD,M5: ZMQ zmq_error 22: ????????????????????????t
+15:14:10 zmq EURUSD,M5: Erro no endereco
+
+15:14:10 zmq_pub_sub EURUSD,H1: using zeromq version 2.1.11
+15:14:10 zmq_pub_sub EURUSD,H1: Olaaa zqm pub
+15:14:10 zmq EURUSD,M5: using zeromq version 2.1.11
+15:14:10 zmq_pub_sub EURUSD,H1: ZMQ zmq_error 22: ??????????
+15:14:10 zmq EURUSD,M5: ZMQ zmq_error 22: ????????????????????????t
+15:14:10 zmq EURUSD,M5: Erro no endereco
+
+15:14:11 zmq_pub_sub EURUSD,H1: using zeromq version 2.1.11
+15:14:11 zmq_pub_sub EURUSD,H1: Olaaa zqm pub
+15:14:11 zmq EURUSD,M5: using zeromq version 2.1.11
+15:14:11 zmq EURUSD,M5: ZMQ zmq_error 22: ????????????????????????t
+15:14:11 zmq EURUSD,M5: Erro no endereco
+
+15:14:11 zmq_pub_sub EURUSD,H1: ZMQ zmq_error 22: ??????????
+15:14:11 zmq_pub_sub EURUSD,H1: using zeromq version 2.1.11
+15:14:11 zmq_pub_sub EURUSD,H1: Olaaa zqm pub
+15:14:11 zmq EURUSD,M5: using zeromq version 2.1.11
+15:14:11 zmq_pub_sub EURUSD,H1: ZMQ zmq_error 22: ??????????
+15:14:11 zmq EURUSD,M5: ZMQ zmq_error 22: ????????????????????????t
+15:14:11 zmq EURUSD,M5: Erro no endereco
+
+15:14:12 zmq EURUSD,M5: using zeromq version 2.1.11
+15:14:12 zmq_pub_sub EURUSD,H1: using zeromq version 2.1.11
+15:14:12 zmq_pub_sub EURUSD,H1: Olaaa zqm pub
+15:14:12 zmq EURUSD,M5: ZMQ zmq_error 22: ????????????????????????t
+15:14:12 zmq EURUSD,M5: Erro no endereco
+
+15:14:12 zmq_pub_sub EURUSD,H1: ZMQ zmq_error 22: ??????????
+15:14:13 zmq_pub_sub EURUSD,H1: using zeromq version 2.1.11
+15:14:13 zmq_pub_sub EURUSD,H1: Olaaa zqm pub
+15:14:13 zmq EURUSD,M5: using zeromq version 2.1.11
+15:14:13 zmq_pub_sub EURUSD,H1: ZMQ zmq_error 22: ??????????
+15:14:13 zmq EURUSD,M5: ZMQ zmq_error 22: ????????????????????????t
+15:14:13 zmq EURUSD,M5: Erro no endereco
+
+15:14:23 zmq EURUSD,M5: using zeromq version 2.1.11
+15:14:23 zmq_pub_sub EURUSD,H1: using zeromq version 2.1.11
+15:14:23 zmq_pub_sub EURUSD,H1: Olaaa zqm pub
+15:14:23 zmq EURUSD,M5: ZMQ zmq_error 22: ????????????????????????t
+15:14:23 zmq EURUSD,M5: Erro no endereco
+
+15:14:23 zmq_pub_sub EURUSD,H1: ZMQ zmq_error 22: ??????????
+15:14:31 zmq_pub_sub EURUSD,H1: using zeromq version 2.1.11
+15:14:31 zmq_pub_sub EURUSD,H1: Olaaa zqm pub
+15:14:31 zmq EURUSD,M5: using zeromq version 2.1.11
+15:14:31 zmq EURUSD,M5: ZMQ zmq_error 22: ????????????????????????t
+15:14:31 zmq EURUSD,M5: Erro no endereco
+
+15:14:31 zmq_pub_sub EURUSD,H1: ZMQ zmq_error 22: ??????????
+15:14:31 zmq EURUSD,M5: using zeromq version 2.1.11
+15:14:31 zmq_pub_sub EURUSD,H1: using zeromq version 2.1.11
+15:14:31 zmq_pub_sub EURUSD,H1: Olaaa zqm pub
+15:14:31 zmq EURUSD,M5: ZMQ zmq_error 22: ????????????????????????t
+15:14:31 zmq EURUSD,M5: Erro no endereco
+
+15:14:31 zmq_pub_sub EURUSD,H1: ZMQ zmq_error 22: ??????????
+15:14:37 zmq EURUSD,M5: using zeromq version 2.1.11
+15:14:37 zmq_pub_sub EURUSD,H1: using zeromq version 2.1.11
+15:14:37 zmq_pub_sub EURUSD,H1: Olaaa zqm pub
+15:14:37 zmq EURUSD,M5: ZMQ zmq_error 22: ????????????????????????t
+15:14:37 zmq EURUSD,M5: Erro no endereco
+
+15:14:37 zmq_pub_sub EURUSD,H1: ZMQ zmq_error 22: ??????????
+15:14:40 zmq_pub_sub EURUSD,H1: using zeromq version 2.1.11
+15:14:40 zmq_pub_sub EURUSD,H1: Olaaa zqm pub
+15:14:40 zmq EURUSD,M5: using zeromq version 2.1.11
+15:14:40 zmq_pub_sub EURUSD,H1: ZMQ zmq_error 22: ??????????
+15:14:40 zmq EURUSD,M5: ZMQ zmq_error 22: ????????????????????????t
+15:14:40 zmq EURUSD,M5: Erro no endereco
+
+15:14:46 zmq_pub_sub EURUSD,H1: using zeromq version 2.1.11
+15:14:46 zmq_pub_sub EURUSD,H1: Olaaa zqm pub
+15:14:46 zmq EURUSD,M5: using zeromq version 2.1.11
+15:14:46 zmq EURUSD,M5: ZMQ zmq_error 22: ????????????????????????t
+15:14:46 zmq EURUSD,M5: Erro no endereco
+
+15:14:46 zmq_pub_sub EURUSD,H1: ZMQ zmq_error 22: ??????????
+15:14:47 zmq EURUSD,M5: uninit reason 2
+15:14:47 Expert zmq EURUSD,M5: removed
+15:14:47 Expert zmq EURUSD,M5: loaded successfully
+15:14:47 zmq EURUSD,M5: initialized
+15:14:48 zmq_pub_sub EURUSD,H1: using zeromq version 2.1.11
+15:14:48 zmq_pub_sub EURUSD,H1: Olaaa zqm pub
+15:14:48 zmq EURUSD,M5: using zeromq version 2.1.11
+15:14:48 zmq_pub_sub EURUSD,H1: ZMQ zmq_error 22: ??????????
+15:14:48 zmq EURUSD,M5: ZMQ zmq_error 22: ????????????
+15:14:48 zmq EURUSD,M5: Erro no endereco
+
+15:14:59 zmq EURUSD,M5: using zeromq version 2.1.11
+15:14:59 zmq_pub_sub EURUSD,H1: using zeromq version 2.1.11
+15:14:59 zmq_pub_sub EURUSD,H1: Olaaa zqm pub
+15:14:59 zmq_pub_sub EURUSD,H1: ZMQ zmq_error 22: ??????????
+15:14:59 zmq EURUSD,M5: ZMQ zmq_error 22: ????????????
+15:14:59 zmq EURUSD,M5: Erro no endereco
+
+15:15:04 zmq_pub_sub EURUSD,H1: using zeromq version 2.1.11
+15:15:04 zmq_pub_sub EURUSD,H1: Olaaa zqm pub
+15:15:04 zmq EURUSD,M5: using zeromq version 2.1.11
+15:15:04 zmq EURUSD,M5: ZMQ zmq_error 22: ????????????
+15:15:04 zmq_pub_sub EURUSD,H1: ZMQ zmq_error 22: ??????????
+15:15:04 zmq EURUSD,M5: Erro no endereco
+
+15:15:05 zmq_pub_sub EURUSD,H1: using zeromq version 2.1.11
+15:15:05 zmq EURUSD,M5: using zeromq version 2.1.11
+15:15:05 zmq_pub_sub EURUSD,H1: Olaaa zqm pub
+15:15:05 zmq EURUSD,M5: ZMQ zmq_error 22: ????????????
+15:15:05 zmq_pub_sub EURUSD,H1: ZMQ zmq_error 22: ??????????
+15:15:05 zmq EURUSD,M5: Erro no endereco
+
+15:15:09 zmq EURUSD,M5: using zeromq version 2.1.11
+15:15:09 zmq_pub_sub EURUSD,H1: using zeromq version 2.1.11
+15:15:09 zmq_pub_sub EURUSD,H1: Olaaa zqm pub
+15:15:09 zmq EURUSD,M5: ZMQ zmq_error 22: ????????????
+15:15:09 zmq_pub_sub EURUSD,H1: ZMQ zmq_error 22: ??????????
+15:15:09 zmq EURUSD,M5: Erro no endereco
+
+15:15:11 zmq_pub_sub EURUSD,H1: using zeromq version 2.1.11
+15:15:11 zmq_pub_sub EURUSD,H1: Olaaa zqm pub
+15:15:11 zmq EURUSD,M5: using zeromq version 2.1.11
+15:15:11 zmq_pub_sub EURUSD,H1: ZMQ zmq_error 22: ??????????
+15:15:11 zmq EURUSD,M5: ZMQ zmq_error 22: ????????????
+15:15:11 zmq EURUSD,M5: Erro no endereco
+
+15:15:11 zmq_pub_sub EURUSD,H1: using zeromq version 2.1.11
+15:15:11 zmq_pub_sub EURUSD,H1: Olaaa zqm pub
+15:15:11 zmq EURUSD,M5: using zeromq version 2.1.11
+15:15:11 zmq_pub_sub EURUSD,H1: ZMQ zmq_error 22: ??????????
+15:15:11 zmq EURUSD,M5: ZMQ zmq_error 22: ????????????
+15:15:11 zmq EURUSD,M5: Erro no endereco
+
+15:15:11 zmq_pub_sub EURUSD,H1: using zeromq version 2.1.11
+15:15:11 zmq_pub_sub EURUSD,H1: Olaaa zqm pub
+15:15:11 zmq EURUSD,M5: using zeromq version 2.1.11
+15:15:11 zmq EURUSD,M5: ZMQ zmq_error 22: ????????????
+15:15:11 zmq_pub_sub EURUSD,H1: ZMQ zmq_error 22: ??????????
+15:15:12 zmq EURUSD,M5: Erro no endereco
+
+15:15:15 zmq_pub_sub EURUSD,H1: using zeromq version 2.1.11
+15:15:15 zmq_pub_sub EURUSD,H1: Olaaa zqm pub
+15:15:15 zmq EURUSD,M5: using zeromq version 2.1.11
+15:15:15 zmq_pub_sub EURUSD,H1: ZMQ zmq_error 22: ??????????
+15:15:15 zmq EURUSD,M5: ZMQ zmq_error 22: ????????????
+15:15:15 zmq EURUSD,M5: Erro no endereco
+
+15:15:15 zmq_pub_sub EURUSD,H1: using zeromq version 2.1.11
+15:15:15 zmq_pub_sub EURUSD,H1: Olaaa zqm pub
+15:15:15 zmq EURUSD,M5: using zeromq version 2.1.11
+15:15:15 zmq EURUSD,M5: ZMQ zmq_error 22: ????????????
+15:15:15 zmq_pub_sub EURUSD,H1: ZMQ zmq_error 22: ??????????
+15:15:15 zmq EURUSD,M5: Erro no endereco
+
+15:15:16 zmq EURUSD,M5: using zeromq version 2.1.11
+15:15:16 zmq_pub_sub EURUSD,H1: using zeromq version 2.1.11
+15:15:16 zmq_pub_sub EURUSD,H1: Olaaa zqm pub
+15:15:16 zmq_pub_sub EURUSD,H1: ZMQ zmq_error 22: ??????????
+15:15:16 zmq EURUSD,M5: ZMQ zmq_error 22: ????????????
+15:15:17 zmq EURUSD,M5: Erro no endereco
+
+15:15:17 zmq EURUSD,M5: using zeromq version 2.1.11
+15:15:17 zmq_pub_sub EURUSD,H1: using zeromq version 2.1.11
+15:15:17 zmq_pub_sub EURUSD,H1: Olaaa zqm pub
+15:15:17 zmq EURUSD,M5: ZMQ zmq_error 22: ????????????
+15:15:17 zmq_pub_sub EURUSD,H1: ZMQ zmq_error 22: ??????????
+15:15:17 zmq EURUSD,M5: Erro no endereco
+
+15:15:18 zmq_pub_sub EURUSD,H1: using zeromq version 2.1.11
+15:15:18 zmq_pub_sub EURUSD,H1: Olaaa zqm pub
+15:15:18 zmq EURUSD,M5: using zeromq version 2.1.11
+15:15:18 zmq EURUSD,M5: ZMQ zmq_error 22: ????????????
+15:15:18 zmq_pub_sub EURUSD,H1: ZMQ zmq_error 22: ??????????
+15:15:18 zmq EURUSD,M5: Erro no endereco
+
+15:15:26 zmq EURUSD,M5: uninit reason 2
+15:15:26 Expert zmq EURUSD,M5: removed
+15:15:26 Expert zmq EURUSD,M5: loaded successfully
+15:15:26 zmq EURUSD,M5: initialized
+15:15:31 zmq_pub_sub EURUSD,H1: using zeromq version 2.1.11
+15:15:31 zmq_pub_sub EURUSD,H1: Olaaa zqm pub
+15:15:31 zmq EURUSD,M5: using zeromq version 2.1.11
+15:15:31 zmq_pub_sub EURUSD,H1: ZMQ zmq_error 22: ??????????
+15:15:31 zmq EURUSD,M5: ZMQ zmq_error 22: ????????
+15:15:32 zmq EURUSD,M5: Erro no endereco
+
+15:15:33 zmq EURUSD,M5: uninit reason 2
+15:15:33 Expert zmq EURUSD,M5: removed
+15:15:33 Expert zmq EURUSD,M5: loaded successfully
+15:15:33 zmq EURUSD,M5: initialized
+15:15:33 zmq_pub_sub EURUSD,H1: using zeromq version 2.1.11
+15:15:33 zmq_pub_sub EURUSD,H1: Olaaa zqm pub
+15:15:33 zmq EURUSD,M5: using zeromq version 2.1.11
+15:15:33 zmq_pub_sub EURUSD,H1: ZMQ zmq_error 22: ??????????
+15:15:33 zmq EURUSD,M5: ZMQ zmq_error 22: ?????????
+15:15:33 zmq EURUSD,M5: Erro no endereco
+
+15:15:34 zmq_pub_sub EURUSD,H1: using zeromq version 2.1.11
+15:15:34 zmq_pub_sub EURUSD,H1: Olaaa zqm pub
+15:15:34 zmq EURUSD,M5: using zeromq version 2.1.11
+15:15:34 zmq_pub_sub EURUSD,H1: ZMQ zmq_error 22: ??????????
+15:15:34 zmq EURUSD,M5: ZMQ zmq_error 22: ?????????
+15:15:34 zmq EURUSD,M5: Erro no endereco
+
+15:15:35 zmq_pub_sub EURUSD,H1: using zeromq version 2.1.11
+15:15:35 zmq_pub_sub EURUSD,H1: Olaaa zqm pub
+15:15:35 zmq EURUSD,M5: using zeromq version 2.1.11
+15:15:35 zmq_pub_sub EURUSD,H1: ZMQ zmq_error 22: ??????????
+15:15:35 zmq EURUSD,M5: ZMQ zmq_error 22: ?????????
+15:15:35 zmq EURUSD,M5: Erro no endereco
+
+15:15:37 zmq_pub_sub EURUSD,H1: using zeromq version 2.1.11
+15:15:37 zmq_pub_sub EURUSD,H1: Olaaa zqm pub
+15:15:37 zmq EURUSD,M5: using zeromq version 2.1.11
+15:15:37 zmq_pub_sub EURUSD,H1: ZMQ zmq_error 22: ??????????
+15:15:37 zmq EURUSD,M5: ZMQ zmq_error 22: ?????????
+15:15:37 zmq EURUSD,M5: Erro no endereco
+
+15:15:38 zmq_pub_sub EURUSD,H1: using zeromq version 2.1.11
+15:15:38 zmq_pub_sub EURUSD,H1: Olaaa zqm pub
+15:15:38 zmq EURUSD,M5: using zeromq version 2.1.11
+15:15:38 zmq_pub_sub EURUSD,H1: ZMQ zmq_error 22: ??????????
+15:15:38 zmq EURUSD,M5: ZMQ zmq_error 22: ?????????
+15:15:38 zmq EURUSD,M5: Erro no endereco
+
+15:15:38 zmq_pub_sub EURUSD,H1: using zeromq version 2.1.11
+15:15:38 zmq_pub_sub EURUSD,H1: Olaaa zqm pub
+15:15:38 zmq EURUSD,M5: using zeromq version 2.1.11
+15:15:38 zmq_pub_sub EURUSD,H1: ZMQ zmq_error 22: ??????????
+15:15:38 zmq EURUSD,M5: ZMQ zmq_error 22: ?????????
+15:15:38 zmq EURUSD,M5: Erro no endereco
+
+15:15:38 zmq EURUSD,M5: using zeromq version 2.1.11
+15:15:38 zmq_pub_sub EURUSD,H1: using zeromq version 2.1.11
+15:15:38 zmq_pub_sub EURUSD,H1: Olaaa zqm pub
+15:15:38 zmq EURUSD,M5: ZMQ zmq_error 22: ?????????
+15:15:38 zmq_pub_sub EURUSD,H1: ZMQ zmq_error 22: ??????????
+15:15:38 zmq EURUSD,M5: Erro no endereco
+
+15:15:39 zmq EURUSD,M5: using zeromq version 2.1.11
+15:15:39 zmq_pub_sub EURUSD,H1: using zeromq version 2.1.11
+15:15:39 zmq_pub_sub EURUSD,H1: Olaaa zqm pub
+15:15:39 zmq EURUSD,M5: ZMQ zmq_error 22: ?????????
+15:15:39 zmq_pub_sub EURUSD,H1: ZMQ zmq_error 22: ??????????
+15:15:39 zmq EURUSD,M5: Erro no endereco
+
+15:15:40 zmq_pub_sub EURUSD,H1: using zeromq version 2.1.11
+15:15:40 zmq_pub_sub EURUSD,H1: Olaaa zqm pub
+15:15:40 zmq EURUSD,M5: using zeromq version 2.1.11
+15:15:40 zmq_pub_sub EURUSD,H1: ZMQ zmq_error 22: ??????????
+15:15:40 zmq EURUSD,M5: ZMQ zmq_error 22: ?????????
+15:15:40 zmq EURUSD,M5: Erro no endereco
+
+15:15:41 zmq_pub_sub EURUSD,H1: using zeromq version 2.1.11
+15:15:41 zmq_pub_sub EURUSD,H1: Olaaa zqm pub
+15:15:41 zmq EURUSD,M5: using zeromq version 2.1.11
+15:15:41 zmq_pub_sub EURUSD,H1: ZMQ zmq_error 22: ??????????
+15:15:41 zmq EURUSD,M5: ZMQ zmq_error 22: ?????????
+15:15:41 zmq EURUSD,M5: Erro no endereco
+
+15:15:42 zmq_pub_sub EURUSD,H1: using zeromq version 2.1.11
+15:15:42 zmq_pub_sub EURUSD,H1: Olaaa zqm pub
+15:15:42 zmq EURUSD,M5: using zeromq version 2.1.11
+15:15:42 zmq EURUSD,M5: ZMQ zmq_error 22: ?????????
+15:15:42 zmq_pub_sub EURUSD,H1: ZMQ zmq_error 22: ??????????
+15:15:42 zmq EURUSD,M5: Erro no endereco
+
+15:15:47 zmq EURUSD,M5: using zeromq version 2.1.11
+15:15:47 zmq_pub_sub EURUSD,H1: using zeromq version 2.1.11
+15:15:47 zmq_pub_sub EURUSD,H1: Olaaa zqm pub
+15:15:47 zmq_pub_sub EURUSD,H1: ZMQ zmq_error 22: ??????????
+15:15:47 zmq EURUSD,M5: ZMQ zmq_error 22: ?????????
+15:15:48 zmq EURUSD,M5: Erro no endereco
+
+15:15:48 zmq EURUSD,M5: using zeromq version 2.1.11
+15:15:48 zmq_pub_sub EURUSD,H1: using zeromq version 2.1.11
+15:15:48 zmq_pub_sub EURUSD,H1: Olaaa zqm pub
+15:15:48 zmq_pub_sub EURUSD,H1: ZMQ zmq_error 22: ??????????
+15:15:48 zmq EURUSD,M5: ZMQ zmq_error 22: ?????????
+15:15:48 zmq EURUSD,M5: Erro no endereco
+
+15:15:48 zmq EURUSD,M5: using zeromq version 2.1.11
+15:15:48 zmq_pub_sub EURUSD,H1: using zeromq version 2.1.11
+15:15:48 zmq_pub_sub EURUSD,H1: Olaaa zqm pub
+15:15:48 zmq_pub_sub EURUSD,H1: ZMQ zmq_error 22: ??????????
+15:15:48 zmq EURUSD,M5: ZMQ zmq_error 22: ?????????
+15:15:48 zmq EURUSD,M5: Erro no endereco
+
+15:15:53 zmq_pub_sub EURUSD,H1: using zeromq version 2.1.11
+15:15:53 zmq_pub_sub EURUSD,H1: Olaaa zqm pub
+15:15:53 zmq EURUSD,M5: using zeromq version 2.1.11
+15:15:53 zmq_pub_sub EURUSD,H1: ZMQ zmq_error 22: ??????????
+15:15:53 zmq EURUSD,M5: ZMQ zmq_error 22: ?????????
+15:15:53 zmq EURUSD,M5: Erro no endereco
+
+15:15:55 zmq EURUSD,M5: using zeromq version 2.1.11
+15:15:55 zmq_pub_sub EURUSD,H1: using zeromq version 2.1.11
+15:15:55 zmq_pub_sub EURUSD,H1: Olaaa zqm pub
+15:15:55 zmq_pub_sub EURUSD,H1: ZMQ zmq_error 22: ??????????
+15:15:55 zmq EURUSD,M5: ZMQ zmq_error 22: ?????????
+15:15:55 zmq EURUSD,M5: Erro no endereco
+
+15:16:00 zmq EURUSD,M5: using zeromq version 2.1.11
+15:16:00 zmq_pub_sub EURUSD,H1: using zeromq version 2.1.11
+15:16:00 zmq_pub_sub EURUSD,H1: Olaaa zqm pub
+15:16:00 zmq EURUSD,M5: ZMQ zmq_error 22: ?????????
+15:16:00 zmq_pub_sub EURUSD,H1: ZMQ zmq_error 22: ??????????
+15:16:00 zmq EURUSD,M5: Erro no endereco
+
+15:16:01 zmq_pub_sub EURUSD,H1: using zeromq version 2.1.11
+15:16:01 zmq_pub_sub EURUSD,H1: Olaaa zqm pub
+15:16:01 zmq EURUSD,M5: using zeromq version 2.1.11
+15:16:01 zmq EURUSD,M5: ZMQ zmq_error 22: ?????????
+15:16:01 zmq_pub_sub EURUSD,H1: ZMQ zmq_error 22: ??????????
+15:16:01 zmq_pub_sub EURUSD,H1: using zeromq version 2.1.11
+15:16:01 zmq_pub_sub EURUSD,H1: Olaaa zqm pub
+15:16:01 zmq_pub_sub EURUSD,H1: ZMQ zmq_error 22: ??????????
+15:16:01 zmq EURUSD,M5: Erro no endereco
+
+15:16:01 zmq EURUSD,M5: using zeromq version 2.1.11
+15:16:01 zmq EURUSD,M5: ZMQ zmq_error 22: ?????????
+15:16:01 zmq EURUSD,M5: Erro no endereco
+
+15:16:02 zmq_pub_sub EURUSD,H1: using zeromq version 2.1.11
+15:16:02 zmq_pub_sub EURUSD,H1: Olaaa zqm pub
+15:16:02 zmq EURUSD,M5: using zeromq version 2.1.11
+15:16:02 zmq_pub_sub EURUSD,H1: ZMQ zmq_error 22: ??????????
+15:16:02 zmq EURUSD,M5: ZMQ zmq_error 22: ?????????
+15:16:02 zmq EURUSD,M5: Erro no endereco
+
+15:16:02 zmq_pub_sub EURUSD,H1: using zeromq version 2.1.11
+15:16:02 zmq_pub_sub EURUSD,H1: Olaaa zqm pub
+15:16:02 zmq EURUSD,M5: using zeromq version 2.1.11
+15:16:02 zmq_pub_sub EURUSD,H1: ZMQ zmq_error 22: ??????????
+15:16:02 zmq EURUSD,M5: ZMQ zmq_error 22: ?????????
+15:16:02 zmq EURUSD,M5: Erro no endereco
+
+15:16:02 zmq_pub_sub EURUSD,H1: using zeromq version 2.1.11
+15:16:02 zmq_pub_sub EURUSD,H1: Olaaa zqm pub
+15:16:02 zmq EURUSD,M5: using zeromq version 2.1.11
+15:16:02 zmq_pub_sub EURUSD,H1: ZMQ zmq_error 22: ??????????
+15:16:02 zmq EURUSD,M5: ZMQ zmq_error 22: ?????????
+15:16:02 zmq EURUSD,M5: Erro no endereco
+
+15:16:05 zmq EURUSD,M5: using zeromq version 2.1.11
+15:16:05 zmq_pub_sub EURUSD,H1: using zeromq version 2.1.11
+15:16:05 zmq_pub_sub EURUSD,H1: Olaaa zqm pub
+15:16:05 zmq EURUSD,M5: ZMQ zmq_error 22: ?????????
+15:16:05 zmq_pub_sub EURUSD,H1: ZMQ zmq_error 22: ??????????
+15:16:05 zmq EURUSD,M5: Erro no endereco
+
+15:16:06 zmq_pub_sub EURUSD,H1: using zeromq version 2.1.11
+15:16:06 zmq EURUSD,M5: using zeromq version 2.1.11
+15:16:06 zmq_pub_sub EURUSD,H1: Olaaa zqm pub
+15:16:06 zmq EURUSD,M5: ZMQ zmq_error 22: ?????????
+15:16:06 zmq_pub_sub EURUSD,H1: ZMQ zmq_error 22: ??????????
+15:16:06 zmq EURUSD,M5: Erro no endereco
+
+15:16:07 zmq_pub_sub EURUSD,H1: using zeromq version 2.1.11
+15:16:07 zmq_pub_sub EURUSD,H1: Olaaa zqm pub
+15:16:07 zmq EURUSD,M5: using zeromq version 2.1.11
+15:16:07 zmq EURUSD,M5: ZMQ zmq_error 22: ?????????
+15:16:07 zmq_pub_sub EURUSD,H1: ZMQ zmq_error 22: ??????????
+15:16:07 zmq EURUSD,M5: Erro no endereco
+
+15:16:07 zmq_pub_sub EURUSD,H1: using zeromq version 2.1.11
+15:16:07 zmq_pub_sub EURUSD,H1: Olaaa zqm pub
+15:16:07 zmq EURUSD,M5: using zeromq version 2.1.11
+15:16:07 zmq_pub_sub EURUSD,H1: ZMQ zmq_error 22: ??????????
+15:16:07 zmq EURUSD,M5: ZMQ zmq_error 22: ?????????
+15:16:07 zmq EURUSD,M5: Erro no endereco
+
+15:16:08 zmq_pub_sub EURUSD,H1: using zeromq version 2.1.11
+15:16:08 zmq_pub_sub EURUSD,H1: Olaaa zqm pub
+15:16:08 zmq EURUSD,M5: using zeromq version 2.1.11
+15:16:08 zmq EURUSD,M5: ZMQ zmq_error 22: ?????????
+15:16:08 zmq_pub_sub EURUSD,H1: ZMQ zmq_error 22: ??????????
+15:16:08 zmq EURUSD,M5: Erro no endereco
+
+15:16:08 zmq_pub_sub EURUSD,H1: using zeromq version 2.1.11
+15:16:08 zmq_pub_sub EURUSD,H1: Olaaa zqm pub
+15:16:08 zmq EURUSD,M5: using zeromq version 2.1.11
+15:16:08 zmq EURUSD,M5: ZMQ zmq_error 22: ?????????
+15:16:08 zmq_pub_sub EURUSD,H1: ZMQ zmq_error 22: ??????????
+15:16:08 zmq EURUSD,M5: Erro no endereco
+
+15:16:08 zmq_pub_sub EURUSD,H1: using zeromq version 2.1.11
+15:16:08 zmq_pub_sub EURUSD,H1: Olaaa zqm pub
+15:16:08 zmq EURUSD,M5: using zeromq version 2.1.11
+15:16:08 zmq_pub_sub EURUSD,H1: ZMQ zmq_error 22: ??????????
+15:16:08 zmq EURUSD,M5: ZMQ zmq_error 22: ?????????
+15:16:09 zmq EURUSD,M5: Erro no endereco
+
+15:16:10 zmq_pub_sub EURUSD,H1: using zeromq version 2.1.11
+15:16:10 zmq_pub_sub EURUSD,H1: Olaaa zqm pub
+15:16:10 zmq EURUSD,M5: using zeromq version 2.1.11
+15:16:10 zmq_pub_sub EURUSD,H1: ZMQ zmq_error 22: ??????????
+15:16:10 zmq EURUSD,M5: ZMQ zmq_error 22: ?????????
+15:16:10 zmq EURUSD,M5: Erro no endereco
+
+15:16:13 zmq_pub_sub EURUSD,H1: using zeromq version 2.1.11
+15:16:13 zmq_pub_sub EURUSD,H1: Olaaa zqm pub
+15:16:13 zmq EURUSD,M5: using zeromq version 2.1.11
+15:16:13 zmq_pub_sub EURUSD,H1: ZMQ zmq_error 22: ??????????
+15:16:13 zmq EURUSD,M5: ZMQ zmq_error 22: ?????????
+15:16:13 zmq EURUSD,M5: Erro no endereco
+
+15:16:21 zmq EURUSD,M5: using zeromq version 2.1.11
+15:16:21 zmq_pub_sub EURUSD,H1: using zeromq version 2.1.11
+15:16:21 zmq_pub_sub EURUSD,H1: Olaaa zqm pub
+15:16:21 zmq_pub_sub EURUSD,H1: ZMQ zmq_error 22: ??????????
+15:16:21 zmq EURUSD,M5: ZMQ zmq_error 22: ?????????
+15:16:21 zmq EURUSD,M5: Erro no endereco
+
+15:16:21 zmq EURUSD,M5: using zeromq version 2.1.11
+15:16:21 zmq_pub_sub EURUSD,H1: using zeromq version 2.1.11
+15:16:21 zmq_pub_sub EURUSD,H1: Olaaa zqm pub
+15:16:21 zmq_pub_sub EURUSD,H1: ZMQ zmq_error 22: ??????????
+15:16:21 zmq EURUSD,M5: ZMQ zmq_error 22: ?????????
+15:16:21 zmq EURUSD,M5: Erro no endereco
+
+15:16:22 zmq EURUSD,M5: using zeromq version 2.1.11
+15:16:22 zmq_pub_sub EURUSD,H1: using zeromq version 2.1.11
+15:16:22 zmq_pub_sub EURUSD,H1: Olaaa zqm pub
+15:16:22 zmq EURUSD,M5: ZMQ zmq_error 22: ?????????
+15:16:22 zmq_pub_sub EURUSD,H1: ZMQ zmq_error 22: ??????????
+15:16:22 zmq EURUSD,M5: Erro no endereco
+
+15:16:24 zmq_pub_sub EURUSD,H1: using zeromq version 2.1.11
+15:16:24 zmq_pub_sub EURUSD,H1: Olaaa zqm pub
+15:16:24 zmq EURUSD,M5: using zeromq version 2.1.11
+15:16:24 zmq EURUSD,M5: ZMQ zmq_error 22: ?????????
+15:16:24 zmq_pub_sub EURUSD,H1: ZMQ zmq_error 22: ??????????
+15:16:24 zmq EURUSD,M5: Erro no endereco
+
+15:16:27 zmq EURUSD,M5: using zeromq version 2.1.11
+15:16:27 zmq_pub_sub EURUSD,H1: using zeromq version 2.1.11
+15:16:27 zmq_pub_sub EURUSD,H1: Olaaa zqm pub
+15:16:27 zmq_pub_sub EURUSD,H1: ZMQ zmq_error 22: ??????????
+15:16:27 zmq EURUSD,M5: ZMQ zmq_error 22: ?????????
+15:16:27 zmq EURUSD,M5: Erro no endereco
+
+15:16:27 zmq_pub_sub EURUSD,H1: using zeromq version 2.1.11
+15:16:27 zmq_pub_sub EURUSD,H1: Olaaa zqm pub
+15:16:27 zmq EURUSD,M5: using zeromq version 2.1.11
+15:16:27 zmq EURUSD,M5: ZMQ zmq_error 22: ?????????
+15:16:27 zmq_pub_sub EURUSD,H1: ZMQ zmq_error 22: ??????????
+15:16:28 zmq EURUSD,M5: Erro no endereco
+
+15:16:28 zmq_pub_sub EURUSD,H1: using zeromq version 2.1.11
+15:16:28 zmq_pub_sub EURUSD,H1: Olaaa zqm pub
+15:16:28 zmq EURUSD,M5: using zeromq version 2.1.11
+15:16:28 zmq_pub_sub EURUSD,H1: ZMQ zmq_error 22: ??????????
+15:16:28 zmq EURUSD,M5: ZMQ zmq_error 22: ?????????
+15:16:28 zmq EURUSD,M5: Erro no endereco
+
+15:16:33 zmq_pub_sub EURUSD,H1: using zeromq version 2.1.11
+15:16:33 zmq_pub_sub EURUSD,H1: Olaaa zqm pub
+15:16:33 zmq EURUSD,M5: using zeromq version 2.1.11
+15:16:33 zmq_pub_sub EURUSD,H1: ZMQ zmq_error 22: ??????????
+15:16:33 zmq EURUSD,M5: ZMQ zmq_error 22: ?????????
+15:16:33 zmq EURUSD,M5: Erro no endereco
+
+15:16:34 zmq_pub_sub EURUSD,H1: using zeromq version 2.1.11
+15:16:34 zmq_pub_sub EURUSD,H1: Olaaa zqm pub
+15:16:34 zmq EURUSD,M5: using zeromq version 2.1.11
+15:16:34 zmq_pub_sub EURUSD,H1: ZMQ zmq_error 22: ??????????
+15:16:34 zmq EURUSD,M5: ZMQ zmq_error 22: ?????????
+15:16:34 zmq EURUSD,M5: Erro no endereco
+
+15:16:35 zmq_pub_sub EURUSD,H1: using zeromq version 2.1.11
+15:16:35 zmq_pub_sub EURUSD,H1: Olaaa zqm pub
+15:16:35 zmq EURUSD,M5: using zeromq version 2.1.11
+15:16:35 zmq EURUSD,M5: ZMQ zmq_error 22: ?????????
+15:16:35 zmq_pub_sub EURUSD,H1: ZMQ zmq_error 22: ??????????
+15:16:35 zmq EURUSD,M5: Erro no endereco
+
+15:16:35 zmq EURUSD,M5: using zeromq version 2.1.11
+15:16:35 zmq_pub_sub EURUSD,H1: using zeromq version 2.1.11
+15:16:35 zmq_pub_sub EURUSD,H1: Olaaa zqm pub
+15:16:35 zmq_pub_sub EURUSD,H1: ZMQ zmq_error 22: ??????????
+15:16:35 zmq EURUSD,M5: ZMQ zmq_error 22: ?????????
+15:16:35 zmq EURUSD,M5: Erro no endereco
+
+15:16:36 zmq_pub_sub EURUSD,H1: using zeromq version 2.1.11
+15:16:36 zmq_pub_sub EURUSD,H1: Olaaa zqm pub
+15:16:36 zmq EURUSD,M5: using zeromq version 2.1.11
+15:16:36 zmq_pub_sub EURUSD,H1: ZMQ zmq_error 22: ??????????
+15:16:36 zmq EURUSD,M5: ZMQ zmq_error 22: ?????????
+15:16:36 zmq EURUSD,M5: Erro no endereco
+
+15:16:37 zmq_pub_sub EURUSD,H1: using zeromq version 2.1.11
+15:16:37 zmq_pub_sub EURUSD,H1: Olaaa zqm pub
+15:16:37 zmq EURUSD,M5: using zeromq version 2.1.11
+15:16:37 zmq_pub_sub EURUSD,H1: ZMQ zmq_error 22: ??????????
+15:16:37 zmq EURUSD,M5: ZMQ zmq_error 22: ?????????
+15:16:37 zmq EURUSD,M5: Erro no endereco
+
+15:16:37 zmq EURUSD,M5: using zeromq version 2.1.11
+15:16:37 zmq_pub_sub EURUSD,H1: using zeromq version 2.1.11
+15:16:37 zmq_pub_sub EURUSD,H1: Olaaa zqm pub
+15:16:37 zmq EURUSD,M5: ZMQ zmq_error 22: ?????????
+15:16:37 zmq_pub_sub EURUSD,H1: ZMQ zmq_error 22: ??????????
+15:16:38 zmq EURUSD,M5: Erro no endereco
+
+15:16:40 zmq_pub_sub EURUSD,H1: using zeromq version 2.1.11
+15:16:40 zmq EURUSD,M5: using zeromq version 2.1.11
+15:16:40 zmq_pub_sub EURUSD,H1: Olaaa zqm pub
+15:16:40 zmq EURUSD,M5: ZMQ zmq_error 22: ?????????
+15:16:40 zmq_pub_sub EURUSD,H1: ZMQ zmq_error 22: ??????????
+15:16:40 zmq EURUSD,M5: Erro no endereco
+
+15:16:40 zmq EURUSD,M5: using zeromq version 2.1.11
+15:16:40 zmq_pub_sub EURUSD,H1: using zeromq version 2.1.11
+15:16:40 zmq_pub_sub EURUSD,H1: Olaaa zqm pub
+15:16:40 zmq_pub_sub EURUSD,H1: ZMQ zmq_error 22: ??????????
+15:16:40 zmq EURUSD,M5: ZMQ zmq_error 22: ?????????
+15:16:40 zmq EURUSD,M5: Erro no endereco
+
+15:16:40 zmq_pub_sub EURUSD,H1: using zeromq version 2.1.11
+15:16:40 zmq_pub_sub EURUSD,H1: Olaaa zqm pub
+15:16:40 zmq EURUSD,M5: using zeromq version 2.1.11
+15:16:40 zmq EURUSD,M5: ZMQ zmq_error 22: ?????????
+15:16:40 zmq_pub_sub EURUSD,H1: ZMQ zmq_error 22: ??????????
+15:16:40 zmq EURUSD,M5: Erro no endereco
+
+15:16:41 zmq_pub_sub EURUSD,H1: using zeromq version 2.1.11
+15:16:41 zmq_pub_sub EURUSD,H1: Olaaa zqm pub
+15:16:41 zmq EURUSD,M5: using zeromq version 2.1.11
+15:16:41 Unhandled exception 0x40000015
+15:16:41 Unhandled exception 0x40000015
+15:21:39 zmq_pub_sub EURUSD,H1: uninit reason 1
+15:21:39 Expert zmq_pub_sub EURUSD,H1: removed
+15:22:04 zmq EURUSD,M5: uninit reason 1
+15:22:04 Expert zmq EURUSD,M5: removed
+15:30:33 Expert zmq EURUSD,H1: loaded successfully
+15:37:43 Expert zmq EURUSD,M5: removed
+15:38:27 Cannot open file 'C:\Desktop\MQL4\Experts\zmq_pub_sub.ex4' [2]
+15:38:34 Cannot open file 'C:\Desktop\MQL4\Experts\zmq_pub_sub.ex4' [2]
+15:40:23 Compiling 'zmq_pub_sub'
+15:40:24 Compiling 'zmq'
+15:41:21 Expert zmq_pub_sub EURUSD,M5: loaded successfully
+15:41:26 zmq_pub_sub EURUSD,M5: initialized
+15:41:54 zmq_pub_sub EURUSD,M5: using zeromq version 2.1.11
+15:41:54 zmq_pub_sub EURUSD,M5: Olaaa zqm pub
+15:41:54 zmq_pub_sub EURUSD,M5: ZMQ zmq_error 22: ????????
+15:41:55 zmq_pub_sub EURUSD,M5: using zeromq version 2.1.11
+15:41:55 zmq_pub_sub EURUSD,M5: Olaaa zqm pub
+15:41:55 zmq_pub_sub EURUSD,M5: ZMQ zmq_error 22: ????????
+15:41:58 zmq_pub_sub EURUSD,M5: using zeromq version 2.1.11
+15:41:58 zmq_pub_sub EURUSD,M5: Olaaa zqm pub
+15:41:58 zmq_pub_sub EURUSD,M5: ZMQ zmq_error 22: ????????
+15:41:58 zmq_pub_sub EURUSD,M5: using zeromq version 2.1.11
+15:41:58 zmq_pub_sub EURUSD,M5: Olaaa zqm pub
+15:41:58 zmq_pub_sub EURUSD,M5: ZMQ zmq_error 22: ????????
+15:41:59 zmq_pub_sub EURUSD,M5: using zeromq version 2.1.11
+15:41:59 zmq_pub_sub EURUSD,M5: Olaaa zqm pub
+15:41:59 zmq_pub_sub EURUSD,M5: ZMQ zmq_error 22: ????????
+15:42:00 zmq_pub_sub EURUSD,M5: using zeromq version 2.1.11
+15:42:00 zmq_pub_sub EURUSD,M5: Olaaa zqm pub
+15:42:00 zmq_pub_sub EURUSD,M5: ZMQ zmq_error 22: ????????
+15:42:09 zmq_pub_sub EURUSD,M5: using zeromq version 2.1.11
+15:42:09 zmq_pub_sub EURUSD,M5: Olaaa zqm pub
+15:42:09 zmq_pub_sub EURUSD,M5: ZMQ zmq_error 22: ????????
+15:42:11 zmq_pub_sub EURUSD,M5: using zeromq version 2.1.11
+15:42:11 zmq_pub_sub EURUSD,M5: Olaaa zqm pub
+15:42:11 zmq_pub_sub EURUSD,M5: ZMQ zmq_error 22: ????????
+15:42:12 zmq_pub_sub EURUSD,M5: using zeromq version 2.1.11
+15:42:12 zmq_pub_sub EURUSD,M5: Olaaa zqm pub
+15:42:12 zmq_pub_sub EURUSD,M5: ZMQ zmq_error 22: ????????
+15:42:21 zmq_pub_sub EURUSD,M5: using zeromq version 2.1.11
+15:42:21 zmq_pub_sub EURUSD,M5: Olaaa zqm pub
+15:42:21 zmq_pub_sub EURUSD,M5: ZMQ zmq_error 22: ????????
+15:42:22 zmq_pub_sub EURUSD,M5: using zeromq version 2.1.11
+15:42:22 zmq_pub_sub EURUSD,M5: Olaaa zqm pub
+15:42:22 zmq_pub_sub EURUSD,M5: ZMQ zmq_error 22: ????????
+15:42:23 zmq_pub_sub EURUSD,M5: using zeromq version 2.1.11
+15:42:23 zmq_pub_sub EURUSD,M5: Olaaa zqm pub
+15:42:23 zmq_pub_sub EURUSD,M5: ZMQ zmq_error 22: ????????
+15:42:24 zmq_pub_sub EURUSD,M5: using zeromq version 2.1.11
+15:42:24 zmq_pub_sub EURUSD,M5: Olaaa zqm pub
+15:42:24 zmq_pub_sub EURUSD,M5: ZMQ zmq_error 22: ????????
+15:42:24 zmq_pub_sub EURUSD,M5: using zeromq version 2.1.11
+15:42:24 zmq_pub_sub EURUSD,M5: Olaaa zqm pub
+15:42:24 zmq_pub_sub EURUSD,M5: ZMQ zmq_error 22: ????????
+15:42:25 zmq_pub_sub EURUSD,M5: using zeromq version 2.1.11
+15:42:25 zmq_pub_sub EURUSD,M5: Olaaa zqm pub
+15:42:25 zmq_pub_sub EURUSD,M5: ZMQ zmq_error 22: ????????
+15:42:29 zmq_pub_sub EURUSD,M5: using zeromq version 2.1.11
+15:42:29 zmq_pub_sub EURUSD,M5: Olaaa zqm pub
+15:42:29 zmq_pub_sub EURUSD,M5: ZMQ zmq_error 22: ????????
+15:42:31 zmq_pub_sub EURUSD,M5: using zeromq version 2.1.11
+15:42:31 zmq_pub_sub EURUSD,M5: Olaaa zqm pub
+15:42:31 zmq_pub_sub EURUSD,M5: ZMQ zmq_error 22: ????????
+15:42:33 zmq_pub_sub EURUSD,M5: using zeromq version 2.1.11
+15:42:33 zmq_pub_sub EURUSD,M5: Olaaa zqm pub
+15:42:33 zmq_pub_sub EURUSD,M5: ZMQ zmq_error 22: ????????
+15:42:34 zmq_pub_sub EURUSD,M5: using zeromq version 2.1.11
+15:42:34 zmq_pub_sub EURUSD,M5: Olaaa zqm pub
+15:42:34 zmq_pub_sub EURUSD,M5: ZMQ zmq_error 22: ????????
+15:42:36 zmq_pub_sub EURUSD,M5: using zeromq version 2.1.11
+15:42:36 zmq_pub_sub EURUSD,M5: Olaaa zqm pub
+15:42:36 zmq_pub_sub EURUSD,M5: ZMQ zmq_error 22: ????????
+15:42:37 zmq_pub_sub EURUSD,M5: using zeromq version 2.1.11
+15:42:37 zmq_pub_sub EURUSD,M5: Olaaa zqm pub
+15:42:37 zmq_pub_sub EURUSD,M5: ZMQ zmq_error 22: ????????
+15:42:38 zmq_pub_sub EURUSD,M5: using zeromq version 2.1.11
+15:42:38 zmq_pub_sub EURUSD,M5: Olaaa zqm pub
+15:42:38 zmq_pub_sub EURUSD,M5: ZMQ zmq_error 22: ????????
+15:42:40 zmq_pub_sub EURUSD,M5: using zeromq version 2.1.11
+15:42:40 zmq_pub_sub EURUSD,M5: Olaaa zqm pub
+15:42:40 zmq_pub_sub EURUSD,M5: ZMQ zmq_error 22: ????????
+15:42:40 zmq_pub_sub EURUSD,M5: using zeromq version 2.1.11
+15:42:40 zmq_pub_sub EURUSD,M5: Olaaa zqm pub
+15:42:40 zmq_pub_sub EURUSD,M5: ZMQ zmq_error 22: ????????
+15:42:43 zmq_pub_sub EURUSD,M5: using zeromq version 2.1.11
+15:42:43 zmq_pub_sub EURUSD,M5: Olaaa zqm pub
+15:42:43 zmq_pub_sub EURUSD,M5: ZMQ zmq_error 22: ????????
+15:42:44 zmq_pub_sub EURUSD,M5: using zeromq version 2.1.11
+15:42:44 zmq_pub_sub EURUSD,M5: Olaaa zqm pub
+15:42:44 zmq_pub_sub EURUSD,M5: ZMQ zmq_error 22: ????????
+15:42:48 zmq_pub_sub EURUSD,M5: using zeromq version 2.1.11
+15:42:48 zmq_pub_sub EURUSD,M5: Olaaa zqm pub
+15:42:48 zmq_pub_sub EURUSD,M5: ZMQ zmq_error 22: ????????
+15:43:00 zmq_pub_sub EURUSD,M5: using zeromq version 2.1.11
+15:43:00 zmq_pub_sub EURUSD,M5: Olaaa zqm pub
+15:43:00 zmq_pub_sub EURUSD,M5: ZMQ zmq_error 22: ????????
+15:43:02 zmq_pub_sub EURUSD,M5: using zeromq version 2.1.11
+15:43:02 zmq_pub_sub EURUSD,M5: Olaaa zqm pub
+15:43:02 zmq_pub_sub EURUSD,M5: ZMQ zmq_error 22: ????????
+15:43:02 zmq_pub_sub EURUSD,M5: using zeromq version 2.1.11
+15:43:02 zmq_pub_sub EURUSD,M5: Olaaa zqm pub
+15:43:02 zmq_pub_sub EURUSD,M5: ZMQ zmq_error 22: ????????
+15:43:03 zmq_pub_sub EURUSD,M5: using zeromq version 2.1.11
+15:43:03 zmq_pub_sub EURUSD,M5: Olaaa zqm pub
+15:43:03 zmq_pub_sub EURUSD,M5: ZMQ zmq_error 22: ????????
+15:43:03 zmq_pub_sub EURUSD,M5: using zeromq version 2.1.11
+15:43:03 zmq_pub_sub EURUSD,M5: Olaaa zqm pub
+15:43:03 zmq_pub_sub EURUSD,M5: ZMQ zmq_error 22: ????????
+15:43:04 zmq_pub_sub EURUSD,M5: using zeromq version 2.1.11
+15:43:04 zmq_pub_sub EURUSD,M5: Olaaa zqm pub
+15:43:04 zmq_pub_sub EURUSD,M5: ZMQ zmq_error 22: ????????
+15:43:07 zmq_pub_sub EURUSD,M5: using zeromq version 2.1.11
+15:43:07 zmq_pub_sub EURUSD,M5: Olaaa zqm pub
+15:43:07 zmq_pub_sub EURUSD,M5: ZMQ zmq_error 22: ????????
+15:43:16 zmq_pub_sub EURUSD,M5: using zeromq version 2.1.11
+15:43:16 zmq_pub_sub EURUSD,M5: Olaaa zqm pub
+15:43:16 zmq_pub_sub EURUSD,M5: ZMQ zmq_error 22: ????????
+15:43:43 zmq_pub_sub EURUSD,M5: using zeromq version 2.1.11
+15:43:43 zmq_pub_sub EURUSD,M5: Olaaa zqm pub
+15:43:43 zmq_pub_sub EURUSD,M5: ZMQ zmq_error 22: ????????
+15:43:43 zmq_pub_sub EURUSD,M5: using zeromq version 2.1.11
+15:43:43 zmq_pub_sub EURUSD,M5: Olaaa zqm pub
+15:43:43 zmq_pub_sub EURUSD,M5: ZMQ zmq_error 22: ????????
+15:44:10 zmq_pub_sub EURUSD,M5: using zeromq version 2.1.11
+15:44:10 zmq_pub_sub EURUSD,M5: Olaaa zqm pub
+15:44:10 zmq_pub_sub EURUSD,M5: ZMQ zmq_error 22: ????????
+15:44:11 zmq_pub_sub EURUSD,M5: using zeromq version 2.1.11
+15:44:11 zmq_pub_sub EURUSD,M5: Olaaa zqm pub
+15:44:11 zmq_pub_sub EURUSD,M5: ZMQ zmq_error 22: ????????
+15:44:12 zmq_pub_sub EURUSD,M5: using zeromq version 2.1.11
+15:44:12 zmq_pub_sub EURUSD,M5: Olaaa zqm pub
+15:44:12 zmq_pub_sub EURUSD,M5: ZMQ zmq_error 22: ????????
+15:44:13 zmq_pub_sub EURUSD,M5: using zeromq version 2.1.11
+15:44:13 zmq_pub_sub EURUSD,M5: Olaaa zqm pub
+15:44:13 zmq_pub_sub EURUSD,M5: ZMQ zmq_error 22: ????????
+15:44:16 zmq_pub_sub EURUSD,M5: using zeromq version 2.1.11
+15:44:16 zmq_pub_sub EURUSD,M5: Olaaa zqm pub
+15:44:17 zmq_pub_sub EURUSD,M5: ZMQ zmq_error 22: ????????
+15:44:19 zmq_pub_sub EURUSD,M5: using zeromq version 2.1.11
+15:44:19 zmq_pub_sub EURUSD,M5: Olaaa zqm pub
+15:44:19 zmq_pub_sub EURUSD,M5: ZMQ zmq_error 22: ????????
+15:44:22 zmq_pub_sub EURUSD,M5: using zeromq version 2.1.11
+15:44:22 zmq_pub_sub EURUSD,M5: Olaaa zqm pub
+15:44:22 zmq_pub_sub EURUSD,M5: ZMQ zmq_error 22: ????????
+15:44:23 zmq_pub_sub EURUSD,M5: using zeromq version 2.1.11
+15:44:23 zmq_pub_sub EURUSD,M5: Olaaa zqm pub
+15:44:23 zmq_pub_sub EURUSD,M5: ZMQ zmq_error 22: ????????
+15:44:35 zmq_pub_sub EURUSD,M5: uninit reason 2
+15:44:35 Expert zmq_pub_sub EURUSD,M5: removed
+15:44:35 Expert zmq_pub_sub EURUSD,M5: loaded successfully
+15:44:35 zmq_pub_sub EURUSD,M5: initialized
+15:44:40 zmq_pub_sub EURUSD,M5: using zeromq version 2.1.11
+15:44:40 zmq_pub_sub EURUSD,M5: ZMQ zmq_error 22: ????????
+15:44:40 zmq_pub_sub EURUSD,M5: Endereço do servidor não encontrado
+
+15:45:02 zmq_pub_sub EURUSD,M5: using zeromq version 2.1.11
+15:45:02 zmq_pub_sub EURUSD,M5: ZMQ zmq_error 22: ????????
+15:45:02 zmq_pub_sub EURUSD,M5: Endereço do servidor não encontrado
+
+15:45:03 zmq_pub_sub EURUSD,M5: using zeromq version 2.1.11
+15:45:03 zmq_pub_sub EURUSD,M5: ZMQ zmq_error 22: ????????
+15:45:03 zmq_pub_sub EURUSD,M5: Endereço do servidor não encontrado
+
+15:45:15 zmq_pub_sub EURUSD,M5: using zeromq version 2.1.11
+15:45:15 zmq_pub_sub EURUSD,M5: ZMQ zmq_error 22: ????????
+15:45:15 zmq_pub_sub EURUSD,M5: Endereço do servidor não encontrado
+
+15:45:15 zmq_pub_sub EURUSD,M5: using zeromq version 2.1.11
+15:45:15 zmq_pub_sub EURUSD,M5: ZMQ zmq_error 22: ????????
+15:45:15 zmq_pub_sub EURUSD,M5: Endereço do servidor não encontrado
+
+15:45:16 zmq_pub_sub EURUSD,M5: using zeromq version 2.1.11
+15:45:16 zmq_pub_sub EURUSD,M5: ZMQ zmq_error 22: ????????
+15:45:16 zmq_pub_sub EURUSD,M5: Endereço do servidor não encontrado
+
+15:45:16 zmq_pub_sub EURUSD,M5: using zeromq version 2.1.11
+15:45:16 zmq_pub_sub EURUSD,M5: ZMQ zmq_error 22: ????????
+15:45:16 zmq_pub_sub EURUSD,M5: Endereço do servidor não encontrado
+
+15:45:17 zmq_pub_sub EURUSD,M5: using zeromq version 2.1.11
+15:45:17 zmq_pub_sub EURUSD,M5: ZMQ zmq_error 22: ????????
+15:45:17 zmq_pub_sub EURUSD,M5: Endereço do servidor não encontrado
+
+15:45:17 zmq_pub_sub EURUSD,M5: using zeromq version 2.1.11
+15:45:17 zmq_pub_sub EURUSD,M5: ZMQ zmq_error 22: ????????
+15:45:17 zmq_pub_sub EURUSD,M5: Endereço do servidor não encontrado
+
+15:45:18 zmq_pub_sub EURUSD,M5: using zeromq version 2.1.11
+15:45:18 zmq_pub_sub EURUSD,M5: ZMQ zmq_error 22: ????????
+15:45:18 zmq_pub_sub EURUSD,M5: Endereço do servidor não encontrado
+
+15:45:20 zmq_pub_sub EURUSD,M5: using zeromq version 2.1.11
+15:45:20 zmq_pub_sub EURUSD,M5: ZMQ zmq_error 22: ????????
+15:45:20 zmq_pub_sub EURUSD,M5: Endereço do servidor não encontrado
+
+15:45:20 zmq_pub_sub EURUSD,M5: using zeromq version 2.1.11
+15:45:20 zmq_pub_sub EURUSD,M5: ZMQ zmq_error 22: ????????
+15:45:20 zmq_pub_sub EURUSD,M5: Endereço do servidor não encontrado
+
+15:45:22 zmq_pub_sub EURUSD,M5: using zeromq version 2.1.11
+15:45:22 zmq_pub_sub EURUSD,M5: ZMQ zmq_error 22: ????????
+15:45:22 zmq_pub_sub EURUSD,M5: Endereço do servidor não encontrado
+
+15:45:24 zmq_pub_sub EURUSD,M5: using zeromq version 2.1.11
+15:45:24 zmq_pub_sub EURUSD,M5: ZMQ zmq_error 22: ????????
+15:45:24 zmq_pub_sub EURUSD,M5: Endereço do servidor não encontrado
+
+15:45:34 zmq_pub_sub EURUSD,M5: using zeromq version 2.1.11
+15:45:34 zmq_pub_sub EURUSD,M5: ZMQ zmq_error 22: ????????
+15:45:34 zmq_pub_sub EURUSD,M5: Endereço do servidor não encontrado
+
+15:45:34 zmq_pub_sub EURUSD,M5: using zeromq version 2.1.11
+15:45:34 zmq_pub_sub EURUSD,M5: ZMQ zmq_error 22: ????????
+15:45:34 zmq_pub_sub EURUSD,M5: Endereço do servidor não encontrado
+
+15:45:39 zmq_pub_sub EURUSD,M5: using zeromq version 2.1.11
+15:45:39 zmq_pub_sub EURUSD,M5: ZMQ zmq_error 22: ????????
+15:45:39 zmq_pub_sub EURUSD,M5: Endereço do servidor não encontrado
+
+15:45:40 zmq_pub_sub EURUSD,M5: using zeromq version 2.1.11
+15:45:40 zmq_pub_sub EURUSD,M5: ZMQ zmq_error 22: ????????
+15:45:40 zmq_pub_sub EURUSD,M5: Endereço do servidor não encontrado
+
+15:45:41 zmq_pub_sub EURUSD,M5: using zeromq version 2.1.11
+15:45:41 zmq_pub_sub EURUSD,M5: ZMQ zmq_error 22: ????????
+15:45:41 zmq_pub_sub EURUSD,M5: Endereço do servidor não encontrado
+
+15:45:41 zmq_pub_sub EURUSD,M5: using zeromq version 2.1.11
+15:45:41 zmq_pub_sub EURUSD,M5: ZMQ zmq_error 22: ????????
+15:45:41 zmq_pub_sub EURUSD,M5: Endereço do servidor não encontrado
+
+15:45:41 zmq_pub_sub EURUSD,M5: using zeromq version 2.1.11
+15:45:41 zmq_pub_sub EURUSD,M5: ZMQ zmq_error 22: ????????
+15:45:41 zmq_pub_sub EURUSD,M5: Endereço do servidor não encontrado
+
+15:45:42 zmq_pub_sub EURUSD,M5: using zeromq version 2.1.11
+15:45:42 zmq_pub_sub EURUSD,M5: ZMQ zmq_error 22: ????????
+15:45:42 zmq_pub_sub EURUSD,M5: Endereço do servidor não encontrado
+
+15:45:42 zmq_pub_sub EURUSD,M5: using zeromq version 2.1.11
+15:45:42 zmq_pub_sub EURUSD,M5: ZMQ zmq_error 22: ????????
+15:45:42 zmq_pub_sub EURUSD,M5: Endereço do servidor não encontrado
+
+15:45:42 zmq_pub_sub EURUSD,M5: using zeromq version 2.1.11
+15:45:42 zmq_pub_sub EURUSD,M5: ZMQ zmq_error 22: ????????
+15:45:42 zmq_pub_sub EURUSD,M5: Endereço do servidor não encontrado
+
+15:45:43 zmq_pub_sub EURUSD,M5: using zeromq version 2.1.11
+15:45:43 zmq_pub_sub EURUSD,M5: ZMQ zmq_error 22: ????????
+15:45:43 zmq_pub_sub EURUSD,M5: Endereço do servidor não encontrado
+
+15:45:43 zmq_pub_sub EURUSD,M5: using zeromq version 2.1.11
+15:45:43 zmq_pub_sub EURUSD,M5: ZMQ zmq_error 22: ????????
+15:45:43 zmq_pub_sub EURUSD,M5: Endereço do servidor não encontrado
+
+15:45:43 zmq_pub_sub EURUSD,M5: using zeromq version 2.1.11
+15:45:43 zmq_pub_sub EURUSD,M5: ZMQ zmq_error 22: ????????
+15:45:43 zmq_pub_sub EURUSD,M5: Endereço do servidor não encontrado
+
+15:45:44 zmq_pub_sub EURUSD,M5: using zeromq version 2.1.11
+15:45:44 zmq_pub_sub EURUSD,M5: ZMQ zmq_error 22: ????????
+15:45:44 zmq_pub_sub EURUSD,M5: Endereço do servidor não encontrado
+
+15:45:44 zmq_pub_sub EURUSD,M5: using zeromq version 2.1.11
+15:45:44 zmq_pub_sub EURUSD,M5: ZMQ zmq_error 22: ????????
+15:45:44 zmq_pub_sub EURUSD,M5: Endereço do servidor não encontrado
+
+15:45:47 zmq_pub_sub EURUSD,M5: using zeromq version 2.1.11
+15:45:47 zmq_pub_sub EURUSD,M5: ZMQ zmq_error 22: ????????
+15:45:47 zmq_pub_sub EURUSD,M5: Endereço do servidor não encontrado
+
+15:45:56 zmq_pub_sub EURUSD,M5: using zeromq version 2.1.11
+15:45:56 zmq_pub_sub EURUSD,M5: ZMQ zmq_error 22: ????????
+15:45:56 zmq_pub_sub EURUSD,M5: Endereço do servidor não encontrado
+
+15:46:11 zmq_pub_sub EURUSD,M5: using zeromq version 2.1.11
+15:46:11 zmq_pub_sub EURUSD,M5: ZMQ zmq_error 22: ????????
+15:46:11 zmq_pub_sub EURUSD,M5: Endereço do servidor não encontrado
+
+15:46:15 zmq_pub_sub EURUSD,M5: using zeromq version 2.1.11
+15:46:15 zmq_pub_sub EURUSD,M5: ZMQ zmq_error 22: ????????
+15:46:15 zmq_pub_sub EURUSD,M5: Endereço do servidor não encontrado
+
+15:46:16 zmq_pub_sub EURUSD,M5: using zeromq version 2.1.11
+15:46:16 zmq_pub_sub EURUSD,M5: ZMQ zmq_error 22: ????????
+15:46:16 zmq_pub_sub EURUSD,M5: Endereço do servidor não encontrado
+
+15:46:24 zmq_pub_sub EURUSD,M5: using zeromq version 2.1.11
+15:46:24 zmq_pub_sub EURUSD,M5: ZMQ zmq_error 22: ????????
+15:46:24 zmq_pub_sub EURUSD,M5: Endereço do servidor não encontrado
+
+15:46:29 zmq_pub_sub EURUSD,M5: using zeromq version 2.1.11
+15:46:29 zmq_pub_sub EURUSD,M5: ZMQ zmq_error 22: ????????
+15:46:29 zmq_pub_sub EURUSD,M5: Endereço do servidor não encontrado
+
+15:46:34 zmq_pub_sub EURUSD,M5: using zeromq version 2.1.11
+15:46:34 zmq_pub_sub EURUSD,M5: ZMQ zmq_error 22: ????????
+15:46:34 zmq_pub_sub EURUSD,M5: Endereço do servidor não encontrado
+
+15:46:35 zmq_pub_sub EURUSD,M5: using zeromq version 2.1.11
+15:46:35 zmq_pub_sub EURUSD,M5: ZMQ zmq_error 22: ????????
+15:46:35 zmq_pub_sub EURUSD,M5: Endereço do servidor não encontrado
+
+15:46:40 zmq_pub_sub EURUSD,M5: using zeromq version 2.1.11
+15:46:40 zmq_pub_sub EURUSD,M5: ZMQ zmq_error 22: ????????
+15:46:40 zmq_pub_sub EURUSD,M5: Endereço do servidor não encontrado
+
+15:46:40 zmq_pub_sub EURUSD,M5: using zeromq version 2.1.11
+15:46:40 zmq_pub_sub EURUSD,M5: ZMQ zmq_error 22: ????????
+15:46:40 zmq_pub_sub EURUSD,M5: Endereço do servidor não encontrado
+
+15:46:41 zmq_pub_sub EURUSD,M5: using zeromq version 2.1.11
+15:46:41 zmq_pub_sub EURUSD,M5: ZMQ zmq_error 22: ????????
+15:46:41 zmq_pub_sub EURUSD,M5: Endereço do servidor não encontrado
+
+15:46:43 zmq_pub_sub EURUSD,M5: using zeromq version 2.1.11
+15:46:43 zmq_pub_sub EURUSD,M5: ZMQ zmq_error 22: ????????
+15:46:43 zmq_pub_sub EURUSD,M5: Endereço do servidor não encontrado
+
+15:46:50 zmq_pub_sub EURUSD,M5: using zeromq version 2.1.11
+15:46:50 zmq_pub_sub EURUSD,M5: ZMQ zmq_error 22: ????????
+15:46:50 zmq_pub_sub EURUSD,M5: Endereço do servidor não encontrado
+
+15:46:51 zmq_pub_sub EURUSD,M5: using zeromq version 2.1.11
+15:46:51 zmq_pub_sub EURUSD,M5: ZMQ zmq_error 22: ????????
+15:46:51 zmq_pub_sub EURUSD,M5: Endereço do servidor não encontrado
+
+15:46:53 zmq_pub_sub EURUSD,M5: using zeromq version 2.1.11
+15:46:53 zmq_pub_sub EURUSD,M5: ZMQ zmq_error 22: ????????
+15:46:53 zmq_pub_sub EURUSD,M5: Endereço do servidor não encontrado
+
+15:46:53 zmq_pub_sub EURUSD,M5: using zeromq version 2.1.11
+15:46:53 zmq_pub_sub EURUSD,M5: ZMQ zmq_error 22: ????????
+15:46:53 zmq_pub_sub EURUSD,M5: Endereço do servidor não encontrado
+
+15:46:53 zmq_pub_sub EURUSD,M5: using zeromq version 2.1.11
+15:46:53 zmq_pub_sub EURUSD,M5: ZMQ zmq_error 22: ????????
+15:46:53 zmq_pub_sub EURUSD,M5: Endereço do servidor não encontrado
+
+15:46:54 zmq_pub_sub EURUSD,M5: using zeromq version 2.1.11
+15:46:54 zmq_pub_sub EURUSD,M5: ZMQ zmq_error 22: ????????
+15:46:54 zmq_pub_sub EURUSD,M5: Endereço do servidor não encontrado
+
+15:46:54 zmq_pub_sub EURUSD,M5: using zeromq version 2.1.11
+15:46:54 zmq_pub_sub EURUSD,M5: ZMQ zmq_error 22: ????????
+15:46:54 zmq_pub_sub EURUSD,M5: Endereço do servidor não encontrado
+
+15:46:54 zmq_pub_sub EURUSD,M5: using zeromq version 2.1.11
+15:46:54 zmq_pub_sub EURUSD,M5: ZMQ zmq_error 22: ????????
+15:46:54 zmq_pub_sub EURUSD,M5: Endereço do servidor não encontrado
+
+15:46:55 zmq_pub_sub EURUSD,M5: using zeromq version 2.1.11
+15:46:55 zmq_pub_sub EURUSD,M5: ZMQ zmq_error 22: ????????
+15:46:55 zmq_pub_sub EURUSD,M5: Endereço do servidor não encontrado
+
+15:46:55 zmq_pub_sub EURUSD,M5: using zeromq version 2.1.11
+15:46:55 zmq_pub_sub EURUSD,M5: ZMQ zmq_error 22: ????????
+15:46:55 zmq_pub_sub EURUSD,M5: Endereço do servidor não encontrado
+
+15:46:56 zmq_pub_sub EURUSD,M5: using zeromq version 2.1.11
+15:46:56 zmq_pub_sub EURUSD,M5: ZMQ zmq_error 22: ????????
+15:46:56 zmq_pub_sub EURUSD,M5: Endereço do servidor não encontrado
+
+15:46:56 zmq_pub_sub EURUSD,M5: using zeromq version 2.1.11
+15:46:56 zmq_pub_sub EURUSD,M5: ZMQ zmq_error 22: ????????
+15:46:56 zmq_pub_sub EURUSD,M5: Endereço do servidor não encontrado
+
+15:46:58 zmq_pub_sub EURUSD,M5: using zeromq version 2.1.11
+15:46:58 zmq_pub_sub EURUSD,M5: ZMQ zmq_error 22: ????????
+15:46:58 zmq_pub_sub EURUSD,M5: Endereço do servidor não encontrado
+
+15:47:01 zmq_pub_sub EURUSD,M5: using zeromq version 2.1.11
+15:47:01 zmq_pub_sub EURUSD,M5: ZMQ zmq_error 22: ????????
+15:47:01 zmq_pub_sub EURUSD,M5: Endereço do servidor não encontrado
+
+15:47:01 zmq_pub_sub EURUSD,M5: using zeromq version 2.1.11
+15:47:01 zmq_pub_sub EURUSD,M5: ZMQ zmq_error 22: ????????
+15:47:01 zmq_pub_sub EURUSD,M5: Endereço do servidor não encontrado
+
+15:47:01 zmq_pub_sub EURUSD,M5: using zeromq version 2.1.11
+15:47:01 zmq_pub_sub EURUSD,M5: ZMQ zmq_error 22: ????????
+15:47:01 zmq_pub_sub EURUSD,M5: Endereço do servidor não encontrado
+
+15:47:01 zmq_pub_sub EURUSD,M5: using zeromq version 2.1.11
+15:47:01 zmq_pub_sub EURUSD,M5: ZMQ zmq_error 22: ????????
+15:47:01 zmq_pub_sub EURUSD,M5: Endereço do servidor não encontrado
+
+15:47:01 zmq_pub_sub EURUSD,M5: using zeromq version 2.1.11
+15:47:01 zmq_pub_sub EURUSD,M5: ZMQ zmq_error 22: ????????
+15:47:01 zmq_pub_sub EURUSD,M5: Endereço do servidor não encontrado
+
+15:47:03 zmq_pub_sub EURUSD,M5: using zeromq version 2.1.11
+15:47:03 zmq_pub_sub EURUSD,M5: ZMQ zmq_error 22: ????????
+15:47:03 zmq_pub_sub EURUSD,M5: Endereço do servidor não encontrado
+
+15:47:05 zmq_pub_sub EURUSD,M5: using zeromq version 2.1.11
+15:47:05 zmq_pub_sub EURUSD,M5: ZMQ zmq_error 22: ????????
+15:47:05 zmq_pub_sub EURUSD,M5: Endereço do servidor não encontrado
+
+15:47:06 zmq_pub_sub EURUSD,M5: using zeromq version 2.1.11
+15:47:06 zmq_pub_sub EURUSD,M5: ZMQ zmq_error 22: ????????
+15:47:06 zmq_pub_sub EURUSD,M5: Endereço do servidor não encontrado
+
+15:47:07 zmq_pub_sub EURUSD,M5: using zeromq version 2.1.11
+15:47:07 zmq_pub_sub EURUSD,M5: ZMQ zmq_error 22: ????????
+15:47:07 zmq_pub_sub EURUSD,M5: Endereço do servidor não encontrado
+
+15:47:08 zmq_pub_sub EURUSD,M5: using zeromq version 2.1.11
+15:47:08 zmq_pub_sub EURUSD,M5: ZMQ zmq_error 22: ????????
+15:47:08 zmq_pub_sub EURUSD,M5: Endereço do servidor não encontrado
+
+15:47:08 zmq_pub_sub EURUSD,M5: using zeromq version 2.1.11
+15:47:08 zmq_pub_sub EURUSD,M5: ZMQ zmq_error 22: ????????
+15:47:08 zmq_pub_sub EURUSD,M5: Endereço do servidor não encontrado
+
+15:47:23 zmq_pub_sub EURUSD,M5: using zeromq version 2.1.11
+15:47:23 zmq_pub_sub EURUSD,M5: ZMQ zmq_error 22: ????????
+15:47:23 zmq_pub_sub EURUSD,M5: Endereço do servidor não encontrado
+
+15:47:24 zmq_pub_sub EURUSD,M5: using zeromq version 2.1.11
+15:47:24 zmq_pub_sub EURUSD,M5: ZMQ zmq_error 22: ????????
+15:47:24 zmq_pub_sub EURUSD,M5: Endereço do servidor não encontrado
+
+15:47:25 zmq_pub_sub EURUSD,M5: using zeromq version 2.1.11
+15:47:25 zmq_pub_sub EURUSD,M5: ZMQ zmq_error 22: ????????
+15:47:25 zmq_pub_sub EURUSD,M5: Endereço do servidor não encontrado
+
+15:47:26 zmq_pub_sub EURUSD,M5: using zeromq version 2.1.11
+15:47:26 zmq_pub_sub EURUSD,M5: ZMQ zmq_error 22: ????????
+15:47:26 zmq_pub_sub EURUSD,M5: Endereço do servidor não encontrado
+
+15:47:27 zmq_pub_sub EURUSD,M5: using zeromq version 2.1.11
+15:47:27 zmq_pub_sub EURUSD,M5: ZMQ zmq_error 22: ????????
+15:47:27 zmq_pub_sub EURUSD,M5: Endereço do servidor não encontrado
+
+15:47:36 zmq_pub_sub EURUSD,M5: using zeromq version 2.1.11
+15:47:36 zmq_pub_sub EURUSD,M5: ZMQ zmq_error 22: ????????
+15:47:36 zmq_pub_sub EURUSD,M5: Endereço do servidor não encontrado
+
+15:47:40 zmq_pub_sub EURUSD,M5: using zeromq version 2.1.11
+15:47:40 zmq_pub_sub EURUSD,M5: ZMQ zmq_error 22: ????????
+15:47:40 zmq_pub_sub EURUSD,M5: Endereço do servidor não encontrado
+
+15:47:57 zmq_pub_sub EURUSD,M5: using zeromq version 2.1.11
+15:47:57 zmq_pub_sub EURUSD,M5: ZMQ zmq_error 22: ????????
+15:47:57 zmq_pub_sub EURUSD,M5: Endereço do servidor não encontrado
+
+15:47:58 zmq_pub_sub EURUSD,M5: using zeromq version 2.1.11
+15:47:58 zmq_pub_sub EURUSD,M5: ZMQ zmq_error 22: ????????
+15:47:58 zmq_pub_sub EURUSD,M5: Endereço do servidor não encontrado
+
+15:47:58 zmq_pub_sub EURUSD,M5: using zeromq version 2.1.11
+15:47:58 zmq_pub_sub EURUSD,M5: ZMQ zmq_error 22: ????????
+15:47:58 zmq_pub_sub EURUSD,M5: Endereço do servidor não encontrado
+
+15:47:58 zmq_pub_sub EURUSD,M5: using zeromq version 2.1.11
+15:47:58 zmq_pub_sub EURUSD,M5: ZMQ zmq_error 22: ????????
+15:47:58 zmq_pub_sub EURUSD,M5: Endereço do servidor não encontrado
+
+15:47:59 zmq_pub_sub EURUSD,M5: using zeromq version 2.1.11
+15:47:59 zmq_pub_sub EURUSD,M5: ZMQ zmq_error 22: ????????
+15:47:59 zmq_pub_sub EURUSD,M5: Endereço do servidor não encontrado
+
+15:48:03 zmq_pub_sub EURUSD,M5: using zeromq version 2.1.11
+15:48:03 zmq_pub_sub EURUSD,M5: ZMQ zmq_error 22: ????????
+15:48:03 zmq_pub_sub EURUSD,M5: Endereço do servidor não encontrado
+
+15:48:03 zmq_pub_sub EURUSD,M5: using zeromq version 2.1.11
+15:48:03 zmq_pub_sub EURUSD,M5: ZMQ zmq_error 22: ????????
+15:48:03 zmq_pub_sub EURUSD,M5: Endereço do servidor não encontrado
+
+15:48:06 zmq_pub_sub EURUSD,M5: using zeromq version 2.1.11
+15:48:06 zmq_pub_sub EURUSD,M5: ZMQ zmq_error 22: ????????
+15:48:06 zmq_pub_sub EURUSD,M5: Endereço do servidor não encontrado
+
+15:48:07 zmq_pub_sub EURUSD,M5: using zeromq version 2.1.11
+15:48:07 zmq_pub_sub EURUSD,M5: ZMQ zmq_error 22: ????????
+15:48:07 zmq_pub_sub EURUSD,M5: Endereço do servidor não encontrado
+
+15:48:14 zmq_pub_sub EURUSD,M5: uninit reason 2
+15:48:14 Expert zmq_pub_sub EURUSD,M5: removed
+15:48:14 Expert zmq_pub_sub EURUSD,M5: loaded successfully
+15:48:14 zmq_pub_sub EURUSD,M5: initialized
+15:48:17 zmq_pub_sub EURUSD,M5: using zeromq version 2.1.11
+15:48:17 zmq_pub_sub EURUSD,M5: ZMQ zmq_error 22: ????????A
+15:48:17 zmq_pub_sub EURUSD,M5: Cliente não conectado
+
+15:48:17 zmq_pub_sub EURUSD,M5: using zeromq version 2.1.11
+15:48:17 zmq_pub_sub EURUSD,M5: ZMQ zmq_error 22: ????????A
+15:48:17 zmq_pub_sub EURUSD,M5: Cliente não conectado
+
+15:48:21 zmq_pub_sub EURUSD,M5: using zeromq version 2.1.11
+15:48:21 zmq_pub_sub EURUSD,M5: ZMQ zmq_error 22: ????????A
+15:48:21 zmq_pub_sub EURUSD,M5: Cliente não conectado
+
+15:48:25 zmq_pub_sub EURUSD,M5: using zeromq version 2.1.11
+15:48:25 zmq_pub_sub EURUSD,M5: ZMQ zmq_error 22: ????????A
+15:48:25 zmq_pub_sub EURUSD,M5: Cliente não conectado
+
+15:48:27 zmq_pub_sub EURUSD,M5: using zeromq version 2.1.11
+15:48:27 zmq_pub_sub EURUSD,M5: ZMQ zmq_error 22: ????????A
+15:48:27 zmq_pub_sub EURUSD,M5: Cliente não conectado
+
+15:48:27 zmq_pub_sub EURUSD,M5: using zeromq version 2.1.11
+15:48:27 zmq_pub_sub EURUSD,M5: ZMQ zmq_error 22: ????????A
+15:48:27 zmq_pub_sub EURUSD,M5: Cliente não conectado
+
+15:48:31 zmq_pub_sub EURUSD,M5: using zeromq version 2.1.11
+15:48:31 zmq_pub_sub EURUSD,M5: ZMQ zmq_error 22: ????????A
+15:48:31 zmq_pub_sub EURUSD,M5: Cliente não conectado
+
+15:48:57 zmq_pub_sub EURUSD,M5: using zeromq version 2.1.11
+15:48:57 zmq_pub_sub EURUSD,M5: ZMQ zmq_error 22: ????????A
+15:48:57 zmq_pub_sub EURUSD,M5: Cliente não conectado
+
+15:49:01 zmq_pub_sub EURUSD,M5: using zeromq version 2.1.11
+15:49:01 zmq_pub_sub EURUSD,M5: ZMQ zmq_error 22: ????????A
+15:49:01 zmq_pub_sub EURUSD,M5: Cliente não conectado
+
+15:49:01 zmq_pub_sub EURUSD,M5: using zeromq version 2.1.11
+15:49:01 zmq_pub_sub EURUSD,M5: ZMQ zmq_error 22: ????????A
+15:49:01 zmq_pub_sub EURUSD,M5: Cliente não conectado
+
+15:49:02 zmq_pub_sub EURUSD,M5: using zeromq version 2.1.11
+15:49:02 zmq_pub_sub EURUSD,M5: ZMQ zmq_error 22: ????????A
+15:49:02 zmq_pub_sub EURUSD,M5: Cliente não conectado
+
+15:49:05 zmq_pub_sub EURUSD,M5: using zeromq version 2.1.11
+15:49:05 zmq_pub_sub EURUSD,M5: ZMQ zmq_error 22: ????????A
+15:49:05 zmq_pub_sub EURUSD,M5: Cliente não conectado
+
+15:49:06 zmq_pub_sub EURUSD,M5: using zeromq version 2.1.11
+15:49:06 zmq_pub_sub EURUSD,M5: ZMQ zmq_error 22: ????????A
+15:49:06 zmq_pub_sub EURUSD,M5: Cliente não conectado
+
+15:49:08 zmq_pub_sub EURUSD,M5: using zeromq version 2.1.11
+15:49:08 zmq_pub_sub EURUSD,M5: ZMQ zmq_error 22: ????????A
+15:49:08 zmq_pub_sub EURUSD,M5: Cliente não conectado
+
+15:49:08 zmq_pub_sub EURUSD,M5: using zeromq version 2.1.11
+15:49:08 zmq_pub_sub EURUSD,M5: ZMQ zmq_error 22: ????????A
+15:49:08 zmq_pub_sub EURUSD,M5: Cliente não conectado
+
+15:49:09 zmq_pub_sub EURUSD,M5: using zeromq version 2.1.11
+15:49:09 zmq_pub_sub EURUSD,M5: ZMQ zmq_error 22: ????????A
+15:49:09 zmq_pub_sub EURUSD,M5: Cliente não conectado
+
+15:49:09 zmq_pub_sub EURUSD,M5: using zeromq version 2.1.11
+15:49:09 zmq_pub_sub EURUSD,M5: ZMQ zmq_error 22: ????????A
+15:49:09 zmq_pub_sub EURUSD,M5: Cliente não conectado
+
+15:49:19 zmq_pub_sub EURUSD,M5: using zeromq version 2.1.11
+15:49:19 zmq_pub_sub EURUSD,M5: ZMQ zmq_error 22: ????????A
+15:49:19 zmq_pub_sub EURUSD,M5: Cliente não conectado
+
+15:49:22 zmq_pub_sub EURUSD,M5: using zeromq version 2.1.11
+15:49:22 zmq_pub_sub EURUSD,M5: ZMQ zmq_error 22: ????????A
+15:49:22 zmq_pub_sub EURUSD,M5: Cliente não conectado
+
+15:49:38 zmq_pub_sub EURUSD,M5: using zeromq version 2.1.11
+15:49:38 zmq_pub_sub EURUSD,M5: ZMQ zmq_error 22: ????????A
+15:49:38 zmq_pub_sub EURUSD,M5: Cliente não conectado
+
+15:49:39 zmq_pub_sub EURUSD,M5: using zeromq version 2.1.11
+15:49:39 zmq_pub_sub EURUSD,M5: ZMQ zmq_error 22: ????????A
+15:49:39 zmq_pub_sub EURUSD,M5: Cliente não conectado
+
+15:49:45 zmq_pub_sub EURUSD,M5: using zeromq version 2.1.11
+15:49:45 zmq_pub_sub EURUSD,M5: ZMQ zmq_error 22: ????????A
+15:49:45 zmq_pub_sub EURUSD,M5: Cliente não conectado
+
+15:49:54 zmq_pub_sub EURUSD,M5: using zeromq version 2.1.11
+15:49:54 zmq_pub_sub EURUSD,M5: ZMQ zmq_error 22: ????????A
+15:49:54 zmq_pub_sub EURUSD,M5: Cliente não conectado
+
+15:49:57 zmq_pub_sub EURUSD,M5: using zeromq version 2.1.11
+15:49:58 zmq_pub_sub EURUSD,M5: ZMQ zmq_error 22: ????????A
+15:49:58 zmq_pub_sub EURUSD,M5: Cliente não conectado
+
+15:49:58 zmq_pub_sub EURUSD,M5: using zeromq version 2.1.11
+15:49:58 zmq_pub_sub EURUSD,M5: ZMQ zmq_error 22: ????????A
+15:49:58 zmq_pub_sub EURUSD,M5: Cliente não conectado
+
+15:50:00 zmq_pub_sub EURUSD,M5: using zeromq version 2.1.11
+15:50:00 zmq_pub_sub EURUSD,M5: ZMQ zmq_error 22: ????????A
+15:50:00 zmq_pub_sub EURUSD,M5: Cliente não conectado
+
+15:50:00 zmq_pub_sub EURUSD,M5: using zeromq version 2.1.11
+15:50:01 zmq_pub_sub EURUSD,M5: ZMQ zmq_error 22: ????????A
+15:50:01 zmq_pub_sub EURUSD,M5: Cliente não conectado
+
+15:50:13 zmq_pub_sub EURUSD,M5: using zeromq version 2.1.11
+15:50:13 zmq_pub_sub EURUSD,M5: ZMQ zmq_error 22: ????????A
+15:50:13 zmq_pub_sub EURUSD,M5: Cliente não conectado
+
+15:50:15 zmq_pub_sub EURUSD,M5: using zeromq version 2.1.11
+15:50:15 zmq_pub_sub EURUSD,M5: ZMQ zmq_error 22: ????????A
+15:50:15 zmq_pub_sub EURUSD,M5: Cliente não conectado
+
+15:50:19 zmq_pub_sub EURUSD,M5: using zeromq version 2.1.11
+15:50:19 zmq_pub_sub EURUSD,M5: ZMQ zmq_error 22: ????????A
+15:50:19 zmq_pub_sub EURUSD,M5: Cliente não conectado
+
+15:50:19 zmq_pub_sub EURUSD,M5: using zeromq version 2.1.11
+15:50:19 Unhandled exception 0x40000015
+15:52:05 zmq_pub_sub EURUSD,M5: uninit reason 1
+15:52:05 Expert zmq_pub_sub EURUSD,M5: removed
+15:52:24 Expert zmq_pub_sub EURUSD,M5: loaded successfully
+15:52:28 zmq_pub_sub EURUSD,M5: initialized
+15:52:30 zmq_pub_sub EURUSD,M5: using zeromq version 2.1.11
+15:52:30 Unhandled exception 0x40000015
+15:53:22 zmq_pub_sub EURUSD,M5: uninit reason 1
+15:53:22 Expert zmq_pub_sub EURUSD,M5: removed
+21:39:03 Compiling 'EL_Gomes_X'
+21:39:14 Expert PearsonFGA_V1 EURUSD,H1: loaded successfully
+21:39:21 PearsonFGA_V1 EURUSD,H1: initialized
+21:39:23 Automated trading disabled
+21:39:24 Automated trading enabled
+21:39:49 PearsonFGA_V1 EURUSD,H1: uninit reason 3
+21:39:51 PearsonFGA_V1 EURUSD,M1: initialized
+23:39:31 PearsonFGA_V1 EURUSD,M1: uninit reason 4
+23:39:31 Expert PearsonFGA_V1 EURUSD,M1: removed
