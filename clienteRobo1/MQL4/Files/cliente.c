@@ -6,18 +6,23 @@
 
 int main (void){
     void *contexto = zmq_ctx_new ();
-    void *requisicao = zmq_socket (context, ZMQ_REQ);
-    char conteudoServidor[TAMANHO_STRING];
+    void *requisicao = zmq_socket (contexto, ZMQ_REQ);
+    char conteudoServidor[10];
 
-    zmq_connect (requisicao, "tcp://localhost:5555");
+    zmq_connect (requisicao, "tcp://192.168.1.4:5555");
     printf ("Conectando com o servidor...\n");
 
-    for (;;) {
-        zmq_send (requisicao, "robo1", TAMANHO_STRING, 0);
-        zmq_recv (requisicao, contexto, TAMANHO_STRING, 0);
+	int n = 1;
+    while(n!=0) {
+		
+        zmq_send (requisicao, "mediaMovel", 10, 0);
+        zmq_recv (requisicao, conteudoServidor, 5, 0);
+		  printf ("Conteudo recebido %d:  %s\n", n, conteudoServidor);
+		n++;
     }
     
     zmq_close (requisicao);
     zmq_ctx_destroy (contexto);
     return 0;
 }
+
