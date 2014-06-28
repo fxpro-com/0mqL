@@ -27,24 +27,31 @@ int main (void){
 	arquivoMediaMovel = fopen("mediaMovel.txt","rt");
     	fscanf(arquivoMediaMovel, "%s",mediaMovel);
 
+	printf("Aguardando conexao\n");
+
         zmq_recv (resposta, conteudoCliente, 10, 0);
+	
+	printf("Conexao estabelecida\n");
 
-    	if(conteudoCliente[8] == 'o' || conteudoCliente[8] == '0'){
+    	if(conteudoCliente[0] == 'c' || conteudoCliente[0] == 'C'){
     		zmq_send (resposta, correlacao,TAMANHO_STRING, 0);
-    		printf("%s",conteudoCliente);
+    		printf("%s\n",conteudoCliente);
     	}
-    	if(conteudoCliente[8] == 'i' || conteudoCliente[8] == 'I'){
+    	else if(conteudoCliente[0] == 'f' || conteudoCliente[0] == 'F'){
     		zmq_send (resposta, fibonacci ,TAMANHO_STRING , 0);
-    		printf("%s",conteudoCliente);
+    		printf("%s\n",conteudoCliente);
     	}
-	if(conteudoCliente[9] == 'l' || conteudoCliente[8] == 'L'){
+	else if(conteudoCliente[0] == 'm' || conteudoCliente[0] == 'M'){
     		zmq_send (resposta, mediaMovel ,TAMANHO_STRING, 0);
-    		printf("%s",conteudoCliente);
+    		printf("%s\n",conteudoCliente);
     	}
-	else
+	else{
 	       printf("Erro");
+	       printf("%s\n",conteudoCliente);
+	}
+	zmq_send (resposta, "capeta",TAMANHO_STRING, 0);
 
-        sleep(10);
+        sleep(1);
 
 	fclose(arquivoCorrelacao);
 	fclose(arquivoFibonacci);
