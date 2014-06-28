@@ -7,6 +7,7 @@ public class Cliente {
 
 	public final static String diretorio = "/home/hebert/.wine/drive_c/Program Files (x86)/MetaTrader - Alpari UK/MQL4/Files/correlacao.txt"; 
 	public final static String metodoNumerico = "correlacao";
+	public final static String ip = "tcp://192.168.1.5:5555";
 	
 	public static void main(String[] args) {
         ZMQ.Context contexto = ZMQ.context(1);
@@ -14,7 +15,7 @@ public class Cliente {
         System.out.println("Estabelecendo conexão com o servidor...");
 
         ZMQ.Socket requisicao = contexto.socket(ZMQ.REQ);
-        requisicao.connect("tcp://192.168.1.4:5555");
+        requisicao.connect(ip);
         System.out.println("Conexão estabelecida!");
         int n = 1;
         while(n!=0){
