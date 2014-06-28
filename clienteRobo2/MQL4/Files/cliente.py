@@ -1,14 +1,21 @@
 import zmq
 
-context = zmq.Context()
+conteudo = zmq.conteudo()
 
-print("Conectando com o servidor...")
-socket = context.socket(zmq.REQ)
-socket.connect("tcp://192.168.1.18:5555")
+#  Socket para se comunicar com o servidor
+print("Conectando com o servidor MQL...")
+socket = conteudo.socket(zmq.REQ)
+socket.connect("tcp://192.168.1.4:5555")
 
-for request in range(10):
-    print("Requisicao %s ..." % request)
-    socket.send("robo1")
+# Um lopp infinito para atualizar o Robo expert
+while (True):
+    socket.send("fibonacci")
+    arquivo = open('fibonacci.txt','w')
+    
+    #  Recebendo uma mensagem
+    mensagem = socket.recv()
+    print("Received reply: %s " % (mensagem))
+    arquivo.write(mensagem)
+    arquivo.close()
 
-    messagemRecebida = socket.recv()
-    print("Mensagem recebida %s [ %s ]" % (request, messagemRecebida))
+
