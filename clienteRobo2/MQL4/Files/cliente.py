@@ -1,6 +1,6 @@
 import zmq
 
-conteudo = zmq.conteudo()
+conteudo = zmq.Context()
 
 #  Socket para se comunicar com o servidor
 print("Conectando com o servidor MQL...")
@@ -14,7 +14,7 @@ while (True):
     
     #  Recebendo uma mensagem
     mensagem = socket.recv()
-    print("Received reply: %s " % (mensagem))
+    print("Resposta do servidor: %s " % (mensagem))
     arquivo.write(mensagem)
     arquivo.close()
 
