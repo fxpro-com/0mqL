@@ -49,7 +49,6 @@ int main (void){
 	       printf("Erro");
 	       printf("%s\n",conteudoCliente);
 	}
-	zmq_send (resposta, "capeta",TAMANHO_STRING, 0);
 
         sleep(1);
 
